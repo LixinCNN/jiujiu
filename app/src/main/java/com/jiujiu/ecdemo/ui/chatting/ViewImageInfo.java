@@ -4,8 +4,6 @@ import android.database.Cursor;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
-
 
 public class ViewImageInfo implements Parcelable {
 

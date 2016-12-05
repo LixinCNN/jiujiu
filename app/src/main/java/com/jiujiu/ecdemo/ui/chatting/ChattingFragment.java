@@ -76,7 +76,6 @@ import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.core.ClientUser;
 import com.jiujiu.ecdemo.pojo.ImUserState;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
-import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
 import com.jiujiu.ecdemo.ui.chatting.base.OnListViewBottomListener;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;

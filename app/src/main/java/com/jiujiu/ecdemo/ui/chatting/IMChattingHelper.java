@@ -28,7 +28,6 @@ import com.jiujiu.ecdemo.pojo.RichTextBean;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.storage.GroupNoticeSqlManager;
 import com.jiujiu.ecdemo.storage.GroupSqlManager;
-import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
 import com.jiujiu.ecdemo.ui.chatting.redpacketutils.CheckRedPacketMessageUtil;

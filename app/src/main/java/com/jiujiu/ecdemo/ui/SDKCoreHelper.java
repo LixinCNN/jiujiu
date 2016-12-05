@@ -22,7 +22,6 @@ import com.jiujiu.ecdemo.storage.ConversationSqlManager;
 import com.jiujiu.ecdemo.storage.GroupMemberSqlManager;
 import com.jiujiu.ecdemo.storage.GroupNoticeSqlManager;
 import com.jiujiu.ecdemo.storage.GroupSqlManager;
-import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
 import com.jiujiu.ecdemo.ui.voip.VoIPCallActivity;
 import com.yuntongxun.ecsdk.ECChatManager;
 import com.yuntongxun.ecsdk.ECDeskManager;

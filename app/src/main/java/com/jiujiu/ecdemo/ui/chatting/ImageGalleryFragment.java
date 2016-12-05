@@ -30,7 +30,6 @@ import com.jiujiu.ecdemo.common.dialog.ECListDialog;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.photoview.PhotoView;
 import com.jiujiu.ecdemo.photoview.PhotoViewAttacher;
-import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
 import com.jiujiu.ecdemo.ui.CCPFragment;
 import com.yuntongxun.ecsdk.ECChatManager.OnDeleteMessageListener;
 import com.yuntongxun.ecsdk.ECError;

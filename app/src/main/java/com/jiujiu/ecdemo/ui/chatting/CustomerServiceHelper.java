@@ -10,7 +10,6 @@ import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
-import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
 import com.yuntongxun.ecsdk.ECDeskManager;
 import com.yuntongxun.ecsdk.ECError;
 import com.yuntongxun.ecsdk.ECMessage;
