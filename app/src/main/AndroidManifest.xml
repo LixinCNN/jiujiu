@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yuntongxun.ecdemo" >
+    package="com.jiujiu.ecdemo" >
 
     // SDK 权限申明, 第三方 APP 接入时，请将 com.yuntongxun.ecdemo 替换为自己的包名
     // 和下面的 uses-permission 一起加入到你的 AndroidManifest 文件中。
-    <permission android:name="com.yuntongxun.ecdemo.permission.RECEIVE_MSG" android:protectionLevel="signature"/>
-    <permission android:name="com.yuntongxun.ecdemo.permission.INCOMING_CALL" android:protectionLevel="signature"/>
+    <permission android:name="com.jiujiu.ecdemo.permission.RECEIVE_MSG" android:protectionLevel="signature"/>
+    <permission android:name="com.jiujiu.ecdemo.permission.INCOMING_CALL" android:protectionLevel="signature"/>
     // 接收 SDK 消息广播权限， 第三方 APP 接入时，请将 com.yuntongxun.ecdemo 替换为自己的包名
-    <uses-permission android:name="com.yuntongxun.ecdemo.permission.RECEIVE_MSG" />
+    <uses-permission android:name="com.jiujiu.ecdemo.permission.RECEIVE_MSG" />
     // 如果没有VOIP功能可以忽略
-    <uses-permission android:name="com.yuntongxun.ecdemo.permission.INCOMING_CALL" />
+    <uses-permission android:name="com.jiujiu.ecdemo.permission.INCOMING_CALL" />
 
 
     <!-- 允许程序打开网络sockets(必选配置) -->
@@ -71,7 +71,7 @@
 
     <!-- 自定义实现Application -->
     <application
-        android:name=".ECApplication"
+        android:name="com.jiujiu.ecdemo.ECApplication"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
@@ -86,7 +86,7 @@
 
         <!-- Demo主程序路口 -->
         <activity
-            android:name=".ui.LauncherActivity"
+            android:name="com.jiujiu.ecdemo.ui.LauncherActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme">
             <intent-filter>
@@ -98,7 +98,7 @@
 
         <!-- 登陆界面 -->
         <activity
-            android:name=".ui.account.LoginActivity"
+            android:name="com.jiujiu.ecdemo.ui.account.LoginActivity"
             android:label="@string/login_title_activity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme"
@@ -106,7 +106,7 @@
         </activity>
         <!--私有云设置页面-->
         <activity
-            android:name=".ui.account.ECSetUpServerActivity"
+            android:name="com.jiujiu.ecdemo.ui.account.ECSetUpServerActivity"
             android:label="@string/login_title_activity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme"
@@ -114,153 +114,153 @@
         </activity>
         <!-- 会话消息聊天主界面 -->
         <activity
-            android:name=".ui.chatting.ChattingActivity"
+            android:name="com.jiujiu.ecdemo.ui.chatting.ChattingActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize" />
         <!-- 联系人详情选项卡 -->
         <activity
-            android:name=".ui.contact.ContactDetailActivity"
+            android:name="com.jiujiu.ecdemo.ui.contact.ContactDetailActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!-- 手机系统联系人 -->
         <activity
-            android:name=".ui.contact.MobileContactActivity"
+            android:name="com.jiujiu.ecdemo.ui.contact.MobileContactActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!-- 发送预览图片 -->
         <activity
-            android:name=".ui.chatting.ImagePreviewActivity"
+            android:name="com.jiujiu.ecdemo.ui.chatting.ImagePreviewActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:process=":tools"
             android:screenOrientation="portrait"
             android:theme="@style/CCPTheme.Holo.Transparent" />
         <!--录制视频页面-->
         <activity
-            android:name=".ui.chatting.VideoRecordActivity"
+            android:name="com.jiujiu.ecdemo.ui.chatting.VideoRecordActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:theme="@style/CCPTheme.Holo.Transparent" />
         <!-- 查看聊天图片 -->
         <activity
-            android:name=".ui.chatting.ImageGalleryActivity"
+            android:name="com.jiujiu.ecdemo.ui.chatting.ImageGalleryActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:theme="@style/CCPTheme.Holo.Transparent"
             android:windowSoftInputMode="stateHidden" />
         <!--图片左右滑动页面-->
         <activity
-            android:name=".ui.chatting.ImageGralleryPagerActivity"
+            android:name="com.jiujiu.ecdemo.ui.chatting.ImageGralleryPagerActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!-- 文件浏览器 -->
         <activity
-            android:name=".ui.plugin.FileExplorerActivity"
+            android:name="com.jiujiu.ecdemo.ui.plugin.FileExplorerActivity"
             android:configChanges="keyboardHidden|orientation|screenSize" />
         <!-- 群组 -->
         <activity
-            android:name=".ui.group.CreateGroupActivity"
+            android:name="com.jiujiu.ecdemo.ui.group.CreateGroupActivity"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustResize" />
         <!-- 联系人选择 -->
         <activity
-            android:name=".ui.contact.ContactSelectListActivity"
+            android:name="com.jiujiu.ecdemo.ui.contact.ContactSelectListActivity"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!-- 手机联系人选择 -->
         <activity
-            android:name=".ui.contact.MobileContactSelectActivity"
+            android:name="com.jiujiu.ecdemo.ui.contact.MobileContactSelectActivity"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name=".ui.contact.SelectContactUI"
+            android:name="com.jiujiu.ecdemo.ui.contact.SelectContactUI"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!-- 设置页面 -->
         <activity
-            android:name=".ui.settings.SettingsActivity"
+            android:name="com.jiujiu.ecdemo.ui.settings.SettingsActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!--讨论组页面-->
         <activity
-            android:name=".ui.group.ECDiscussionActivity"
+            android:name="com.jiujiu.ecdemo.ui.group.ECDiscussionActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!--群组选择联系人页面-->
         <activity
-            android:name=".ui.contact.GroupCardSelectUI"
+            android:name="com.jiujiu.ecdemo.ui.contact.GroupCardSelectUI"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustPan" />
         <!--群组信息页面-->
         <activity
-            android:name=".ui.group.GroupInfoActivity"
+            android:name="com.jiujiu.ecdemo.ui.group.GroupInfoActivity"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!-- 群组搜索 -->
         <activity
-        android:name=".ui.group.SearchGroupActivity"
+        android:name="com.jiujiu.ecdemo.ui.group.SearchGroupActivity"
         android:label="@string/title_activity_search_group"
         android:screenOrientation="portrait" />
         <activity
-            android:name=".ui.group.BaseSearch"
+            android:name="com.jiujiu.ecdemo.ui.group.BaseSearch"
             android:label="@string/title_activity_search_group"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
 
         <activity
-            android:name=".ui.settings.EditConfigureActivity"
+            android:name="com.jiujiu.ecdemo.ui.settings.EditConfigureActivity"
             android:screenOrientation="portrait"
             android:label="@string/title_activity_edit_configure" >
         </activity>
         <!--群组成员名片页面-->
         <activity
-            android:name=".ui.group.GroupMemberCardActivity"
+            android:name="com.jiujiu.ecdemo.ui.group.GroupMemberCardActivity"
             android:screenOrientation="portrait"
             >
         </activity>
         <!-- 申请加入群组 -->
         <activity
-            android:name=".ui.group.ApplyWithGroupPermissionActivity"
+            android:name="com.jiujiu.ecdemo.ui.group.ApplyWithGroupPermissionActivity"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!--通知页面-->
         <activity
-            android:name=".ui.group.GroupNoticeActivity"
+            android:name="com.jiujiu.ecdemo.ui.group.GroupNoticeActivity"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!--登录设置页面-->
         <activity
-            android:name=".ui.settings.LoginSettingActivity"
+            android:name="com.jiujiu.ecdemo.ui.settings.LoginSettingActivity"
             android:label="@string/title_activity_login_setting"
             android:screenOrientation="portrait" />
         <!--设置个人信息-->
         <activity
-        android:name=".ui.settings.SettingPersionInfoActivity"
+        android:name="com.jiujiu.ecdemo.ui.settings.SettingPersionInfoActivity"
         android:label="@string/title_activity_setting_persion_info"
         android:launchMode="singleInstance"
         android:screenOrientation="portrait" />
         <!-- 选择联系人呼叫界面 -->
         <activity
-            android:name=".ui.contact.AtSomeoneUI"
+            android:name="com.jiujiu.ecdemo.ui.contact.AtSomeoneUI"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />
 
         <!-- VoIP 呼叫界面 -->
         <activity
-            android:name=".ui.voip.VoIPCallActivity"
+            android:name="com.jiujiu.ecdemo.ui.voip.VoIPCallActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
@@ -271,7 +271,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.voip.VideoActivity"
+            android:name="com.jiujiu.ecdemo.ui.voip.VideoActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
@@ -283,63 +283,63 @@
         </activity>
         <!-- 实时对讲列表 -->
         <activity
-            android:name=".ui.interphone.InterPhoneListActivity"
+            android:name="com.jiujiu.ecdemo.ui.interphone.InterPhoneListActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />
         <!-- 实时对讲房间 -->
         <activity
-            android:name=".ui.interphone.InterPhoneChatActivity"
+            android:name="com.jiujiu.ecdemo.ui.interphone.InterPhoneChatActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />
         <!-- 会议列表 -->
         <activity
-            android:name=".ui.meeting.MeetingListActivity"
+            android:name="com.jiujiu.ecdemo.ui.meeting.MeetingListActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />
         <!-- 语音会议 -->
         <activity
-            android:name=".ui.meeting.VoiceMeetingActivity"
+            android:name="com.jiujiu.ecdemo.ui.meeting.VoiceMeetingActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />
         <!-- 创建语音群聊 -->
         <activity
-            android:name=".ui.meeting.CreateVoiceMeetingActivity"
+            android:name="com.jiujiu.ecdemo.ui.meeting.CreateVoiceMeetingActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />
         <!-- 会议成员的管理 -->
         <activity
-            android:name=".ui.meeting.VoiceMeetingMemberManager"
+            android:name="com.jiujiu.ecdemo.ui.meeting.VoiceMeetingMemberManager"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />
         <!-- 外呼邀请会议成员 -->
 
         <activity
-            android:name=".ui.meeting.InviteByPhoneCall"
+            android:name="com.jiujiu.ecdemo.ui.meeting.InviteByPhoneCall"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />
 
         <!--视频会议列表界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.videomeeting.VideoconferenceConversation"
+            android:name="com.jiujiu.ecdemo.ui.videomeeting.VideoconferenceConversation"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!--创建视频会议界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.videomeeting.CreateVideoConference"
+            android:name="com.jiujiu.ecdemo.ui.videomeeting.CreateVideoConference"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!--视频会议界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.videomeeting.MultiVideoconference"
+            android:name="com.jiujiu.ecdemo.ui.videomeeting.MultiVideoconference"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden" />
         <!--IM定位界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.LocationActivity"
+            android:name="com.jiujiu.ecdemo.ui.LocationActivity"
             android:configChanges="orientation|keyboardHidden"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden"
@@ -348,7 +348,7 @@
         </activity>
         <!--显示百度地图界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.ShowBaiDuMapActivity"
+            android:name="com.jiujiu.ecdemo.ui.ShowBaiDuMapActivity"
             android:configChanges="orientation|keyboardHidden"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden"
@@ -357,7 +357,7 @@
         </activity>
         <!--关于界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.settings.AboutActivity"
+            android:name="com.jiujiu.ecdemo.ui.settings.AboutActivity"
             android:configChanges="orientation|keyboardHidden"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden"
@@ -366,7 +366,7 @@
         </activity>
         <!--服务器自定义配置界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.account.ECServerConfigListUI"
+            android:name="com.jiujiu.ecdemo.ui.account.ECServerConfigListUI"
             android:configChanges="orientation|keyboardHidden"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden"
@@ -375,7 +375,7 @@
         </activity>
         <!--webview下载选择界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.settings.WebAboutActivity"
+            android:name="com.jiujiu.ecdemo.ui.settings.WebAboutActivity"
             android:configChanges="orientation|keyboardHidden"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden"
@@ -384,7 +384,7 @@
         </activity>
         <!--查看消息已读未读界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.chatting.ECMessageFeedUI"
+            android:name="com.jiujiu.ecdemo.ui.chatting.ECMessageFeedUI"
             android:configChanges="orientation|keyboardHidden"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden"
@@ -392,7 +392,7 @@
             >
         </activity>
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.settings.SetRatioActivity"
+            android:name="com.jiujiu.ecdemo.ui.settings.SetRatioActivity"
             android:configChanges="orientation|keyboardHidden"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden"
@@ -400,7 +400,7 @@
             >
         </activity>
         <activity
-            android:name="com.yuntongxun.ecdemo.ui.settings.SuggestActivity"
+            android:name="com.jiujiu.ecdemo.ui.settings.SuggestActivity"
             android:configChanges="orientation|keyboardHidden"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="stateHidden"
@@ -410,7 +410,7 @@
 
         <!--微信分享页面-->
         <activity
-            android:name=".ui.settings.WXEntryActivity"
+            android:name="com.jiujiu.ecdemo.ui.settings.WXEntryActivity"
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:exported="true"
@@ -437,7 +437,7 @@
         </activity>
         <!--图片选择界面-->
         <activity
-            android:name="com.yuntongxun.ecdemo.photopicker.PhotoPickerActivity"
+            android:name="com.jiujiu.ecdemo.photopicker.PhotoPickerActivity"
             android:configChanges="keyboardHidden|orientation"
             android:screenOrientation="portrait" />
 
@@ -479,7 +479,7 @@
         // 如果没有VOIP功能可以忽略
         <!-- 需要权限声明 <uses-permission android:name="com.yuntongxun.ecdemo.permission.INCOMING_CALL"/> -->
         <receiver
-            android:name=".service.YuntxNotifyReceiver"
+            android:name="com.jiujiu.ecdemo.service.YuntxNotifyReceiver"
             android:exported="false">
             <intent-filter>
                 // 接收push消息
@@ -496,7 +496,7 @@
 
         // *****************************ECSDK核心服务类 End*******************************************
         // 应用处理程序逻辑服务
-        <service android:name=".service.YuntxNotifyReceiver$NotifyService" />
+        <service android:name="com.jiujiu.ecdemo.service.YuntxNotifyReceiver$NotifyService" />
         <service
             android:name="com.baidu.location.f"
             android:enabled="true"

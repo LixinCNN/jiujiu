@@ -533,6 +533,7 @@
     <string name="setup_appid">appId</string>
     <string name="setup_apptoken">appToken</string>
     <string name="save">保存</string>
+    <string name="me">我</string>
     <string name="setup_server">配置服务器地址</string>
     <string name="setup_server_error">请输入完整的服务器地址配置</string>
     <string name="create_meetingName_Null">请输入会议房间名称</string>
