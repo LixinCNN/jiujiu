@@ -19,7 +19,6 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
 import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.common.utils.LogUtil;

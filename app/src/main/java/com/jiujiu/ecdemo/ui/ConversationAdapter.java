@@ -30,7 +30,6 @@ import com.jiujiu.ecdemo.common.utils.ECPreferences;
 import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;
 import com.jiujiu.ecdemo.ui.chatting.model.Conversation;
 import com.jiujiu.ecdemo.ui.contact.ContactLogic;
-import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.common.utils.DateUtil;
 import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
 import com.jiujiu.ecdemo.common.utils.ResourceHelper;

@@ -28,11 +28,9 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
-import com.jiujiu.ecdemo.common.base.CCPLayoutListenerView;
 import com.jiujiu.ecdemo.common.utils.EmoticonUtil;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.view.TopBarView;
-import com.jiujiu.ecdemo.common.AudioManagerTools;
 import com.jiujiu.ecdemo.common.view.VerticalImageSpan;
 
 import java.util.ArrayList;

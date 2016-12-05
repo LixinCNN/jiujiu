@@ -7,7 +7,6 @@ import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.base.CCPTextView;
 import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;
 
 public class RichTextViewHolder extends BaseHolder {

@@ -16,7 +16,6 @@ import android.content.Context;
 
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ECApplication;
-import com.jiujiu.ecdemo.common.CCPAppManager;
 
 import java.util.ArrayList;
 import java.util.List;

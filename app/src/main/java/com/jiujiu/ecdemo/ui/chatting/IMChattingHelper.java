@@ -16,7 +16,6 @@ import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.text.TextUtils;
 
-import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.common.utils.BitmapUtil;
 import com.jiujiu.ecdemo.common.utils.DateUtil;
 import com.jiujiu.ecdemo.common.utils.DemoUtils;
@@ -29,7 +28,6 @@ import com.jiujiu.ecdemo.pojo.RichTextBean;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.storage.GroupNoticeSqlManager;
 import com.jiujiu.ecdemo.storage.GroupSqlManager;
-import com.jiujiu.ecdemo.storage.IMessageSqlManager;
 import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;

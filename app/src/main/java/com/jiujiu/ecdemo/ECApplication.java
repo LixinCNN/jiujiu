@@ -31,7 +31,6 @@ import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import com.nostra13.universalimageloader.core.assist.QueueProcessingType;
 import com.nostra13.universalimageloader.utils.StorageUtils;
 import com.tencent.bugly.crashreport.CrashReport;
-import com.jiujiu.ecdemo.common.CCPAppManager;
 
 import java.io.File;
 import java.io.InvalidClassException;

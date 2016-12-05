@@ -13,9 +13,7 @@ import android.widget.TextView;
 
 import com.jiujiu.ecdemo.common.view.XListView;
 import com.jiujiu.ecdemo.common.utils.NetUtils;
-import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
-import com.jiujiu.ecdemo.storage.IMessageSqlManager;
 import com.yuntongxun.ecsdk.ECMessage;
 import com.yuntongxun.ecsdk.ECReadMessageMember;
 

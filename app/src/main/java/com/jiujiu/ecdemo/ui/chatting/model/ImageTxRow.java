@@ -26,7 +26,6 @@ import android.widget.ImageView;
 import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.common.utils.FileAccessor;
 import com.jiujiu.ecdemo.common.utils.ResourceHelper;
-import com.jiujiu.ecdemo.storage.IMessageSqlManager;
 import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
 import com.jiujiu.ecdemo.ui.chatting.ChattingActivity;
 import com.jiujiu.ecdemo.ui.chatting.holder.BaseHolder;

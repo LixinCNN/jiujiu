@@ -17,7 +17,6 @@ import android.support.v4.app.FragmentActivity;
 import android.view.KeyEvent;
 
 import com.jiujiu.ecdemo.common.utils.LogUtil;
-import com.jiujiu.ecdemo.common.AudioManagerTools;
 
 /**
  * 自定义BaseFragment，处理上下音量键按下事件

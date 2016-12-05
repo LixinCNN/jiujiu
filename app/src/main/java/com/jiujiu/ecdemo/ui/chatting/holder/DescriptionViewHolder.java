@@ -18,7 +18,6 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.base.CCPTextView;
 import com.melink.baseframe.utils.DensityUtils;
 import com.melink.bqmmsdk.widget.BQMMMessageText;
 

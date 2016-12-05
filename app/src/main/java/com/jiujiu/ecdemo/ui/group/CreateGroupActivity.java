@@ -34,7 +34,6 @@ import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.storage.GroupSqlManager;
 import com.jiujiu.ecdemo.ui.ActivityTransition;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
-import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 import com.jiujiu.ecdemo.ui.contact.MobileContactSelectActivity;
 import com.yuntongxun.ecsdk.ECError;

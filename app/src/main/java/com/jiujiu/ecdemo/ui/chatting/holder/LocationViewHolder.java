@@ -1,6 +1,5 @@
 package com.jiujiu.ecdemo.ui.chatting.holder;
 
-import com.jiujiu.ecdemo.common.base.CCPTextView;
 import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;
 
 import android.view.View;

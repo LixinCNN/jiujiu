@@ -35,7 +35,6 @@ import com.jiujiu.ecdemo.ui.chatting.model.RedPacketAckRxRow;
 import com.jiujiu.ecdemo.ui.chatting.model.RedPacketRxRow;
 import com.jiujiu.ecdemo.ui.chatting.model.RichTextRxRow;
 import com.nostra13.universalimageloader.core.ImageLoader;
-import com.jiujiu.ecdemo.storage.IMessageSqlManager;
 import com.jiujiu.ecdemo.ui.chatting.model.IChattingRow;
 import com.jiujiu.ecdemo.ui.chatting.model.ImageRxRow;
 import com.jiujiu.ecdemo.ui.chatting.model.VoiceRxRow;

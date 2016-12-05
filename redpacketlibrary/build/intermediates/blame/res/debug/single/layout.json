@@ -4,12 +4,12 @@
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_bank_city_list_dialog.xml"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_widget_title_bar.xml",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_widget_title_bar.xml"
-    },
-    {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_open_packet_dialog.xml",
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_open_packet_dialog.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_widget_title_bar.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_widget_title_bar.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_choose_pay_dialog.xml",

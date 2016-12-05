@@ -4,7 +4,6 @@ import android.util.Log;
 
 import com.alibaba.fastjson.JSONException;
 import com.alibaba.fastjson.JSONObject;
-import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.yuntongxun.ecsdk.ECMessage;
 
 import utils.RedPacketConstant;

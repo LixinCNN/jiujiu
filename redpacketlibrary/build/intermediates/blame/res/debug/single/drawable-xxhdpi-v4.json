@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
-    },
-    {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_holo_light.png",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
     },
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_transparent_dark_holo.9.png",
@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_avatar.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_avatar.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_avatar.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_avatar.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_arrow_forward.png",
@@ -40,40 +40,40 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_pass_authentication.png",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_pass_authentication.png"
-    },
-    {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_avatar.png",
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_avatar.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_holo_light.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_default_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_pass_authentication.png",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_pass_authentication.png"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_packet_group_detail_bg.png",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_packet_group_detail_bg.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ytx_red_packet_icon.png",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\ytx_red_packet_icon.png"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_holo_light.9.png",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_light.9.png"
+        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_group_everyone.png",
+        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_group_everyone.png"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_holo_light.png",
         "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_search_api_holo_light.png"
     },
     {
-        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_group_everyone.png",
-        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_group_everyone.png"
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_red_packet_records.png",
@@ -92,24 +92,24 @@
         "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_transparent_light_holo.9.png"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
-    },
-    {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_solid_dark_holo.9.png",
         "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_verify_identity.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_verify_identity.png"
-    },
-    {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_verify_identity.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_verify_identity.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_disabled.png",
@@ -128,20 +128,20 @@
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_picture_vague.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark_9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_load_dark_9.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_solid_dark_holo.9.png",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_solid_dark_holo.9.png"
     },
     {
-        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ytx_chatfrom_bg_normal.9.png",
-        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\ytx_chatfrom_bg_normal.9.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark_9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_load_dark_9.png"
     },
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark_1.png",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_load_dark_1.png"
+    },
+    {
+        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ytx_chatfrom_bg_normal.9.png",
+        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\ytx_chatfrom_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_transparent_dark_holo.9.png",
@@ -152,16 +152,16 @@
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_question_white.png"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark_8.png",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_load_dark_8.png"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_add_card_icon.png",
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_add_card_icon.png"
     },
     {
-        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark_8.png",
-        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_load_dark_8.png"
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_holo_light.png",
@@ -172,12 +172,12 @@
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
-    },
-    {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_holo_dark.png",
         "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_forget_pwd.png",
@@ -228,16 +228,16 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_jd_grey_icon.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_jd_grey_icon.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_default_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_holo_dark.9.png",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_cab_background_top_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_spinner_ab_default_holo_dark.9.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_jd_grey_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_jd_grey_icon.png"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_normal.png",
@@ -280,16 +280,16 @@
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_selected_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_transparent_light_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_transparent_light_holo.9.png"
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_search_bar_input.9.png",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_search_bar_input.9.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
     },
     {
-        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_search_bar_input.9.png",
-        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_search_bar_input.9.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_transparent_light_holo.9.png"
     },
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_open_packet_bg.png",
@@ -300,12 +300,12 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_change_icon_grey.png"
     },
     {
-        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
-        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
-    },
-    {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ytx_message_icon.png",
@@ -320,12 +320,12 @@
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
     },
     {
-        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_cab_done_holo_dark.png",
-        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_cab_done_holo_dark.png"
-    },
-    {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_packet_detail_bg.png",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_packet_detail_bg.png"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_cab_done_holo_dark.png"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_my_bankcard.png",
@@ -352,12 +352,12 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_exclusive_icon.png"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_holo_dark.9.png",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_cab_background_top_holo_dark.9.png"
-    },
-    {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_disabled.png",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xxhdpi\\abc_cab_background_top_holo_dark.9.png"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
