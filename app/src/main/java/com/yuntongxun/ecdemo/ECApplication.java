@@ -42,6 +42,7 @@ public class ECApplication extends Application {
 
     /**
      * 单例，返回一个实例
+     * 更改
      * @return
      */
     public static ECApplication getInstance() {
