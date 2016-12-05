@@ -86,6 +86,7 @@ import java.util.List;
 /**
  * *主界面（消息会话界面、联系人界面、群组界面）
  */
+//ttst
 @ActivityTransition(3)
 public class LauncherActivity extends ECFragmentActivity implements
 		View.OnClickListener, View.OnLongClickListener ,
