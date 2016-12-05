@@ -24,7 +24,6 @@ import java.util.Map;
 
 /**
  * 定义抽象适配器，继承扩展不同的消息
- * Created by Jorstin on 2015/3/18.
  */
 public abstract class CCPListAdapter<T> extends BaseAdapter implements OnMessageChange {
 

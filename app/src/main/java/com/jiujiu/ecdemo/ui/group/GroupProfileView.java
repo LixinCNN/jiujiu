@@ -19,11 +19,6 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-/**
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-31
- * @version 4.0
- */
 public class GroupProfileView extends LinearLayout {
 
 	/**群组名称*/

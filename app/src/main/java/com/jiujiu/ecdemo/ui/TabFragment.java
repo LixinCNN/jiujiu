@@ -17,7 +17,6 @@ import android.view.KeyEvent;
  * 自定义三个TabView 的Fragment ,将三个TabView共同属性方法
  * 统一处理
  * 三个TabView 滑动页面需要继承该基类，
- * Created by Jorstin on 2015/3/18.
  */
 public abstract class TabFragment extends BaseFragment {
 

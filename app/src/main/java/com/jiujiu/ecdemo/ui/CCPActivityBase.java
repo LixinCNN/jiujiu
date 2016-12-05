@@ -40,7 +40,6 @@ import java.util.List;
 
 /**
  * 界面处理
- * Created by Jorstin on 2015/3/17.
  */
 public abstract class CCPActivityBase {
 

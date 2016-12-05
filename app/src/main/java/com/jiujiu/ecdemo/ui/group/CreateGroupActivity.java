@@ -44,10 +44,6 @@ import com.yuntongxun.ecsdk.im.ECGroup;
 
 /**
  * 群组创建功能
- * 
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-27
- * @version 4.0
  */
 @ActivityTransition(5)
 public class CreateGroupActivity extends ECSuperActivity implements

@@ -19,11 +19,6 @@ import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.yuntongxun.ecsdk.im.group.ECGroupNoticeMessage;
 
 
-/**
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-31
- * @version 4.0
- */
 public class NoticeSystemMessage extends ECGroupNoticeMessage {
 
 	/**消息ID*/

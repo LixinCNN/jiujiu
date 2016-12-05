@@ -18,8 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 会议消息处理 com.yuntongxun.ecdemo.ui in ECDemo_Android Created by Jorstin on
- * 2015/7/25.
+ * 会议消息处理
  */
 public class MeetingMsgReceiver implements OnMeetingListener {
 

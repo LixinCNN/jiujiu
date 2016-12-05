@@ -40,9 +40,6 @@ import com.yuntongxun.ecsdk.ECError;
 
 /**
  * 群组界面
- * @author 容联•云通讯
- * @date 2014-12-4
- * @version 4.0
  */
 public class GroupListFragment extends TabFragment implements GroupService.Callback {
 

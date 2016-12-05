@@ -43,10 +43,6 @@ import java.io.InvalidClassException;
 
 /**
  * 讨论组列表界面
- * 
- * @author 容联•云通讯
- * @date 2014-12-4
- * @version 4.0
  */
 public class DiscussionListFragment extends TabFragment implements
 		View.OnClickListener{

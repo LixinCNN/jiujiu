@@ -32,7 +32,6 @@ import com.jiujiu.ecdemo.common.view.SwipeBackLayout;
 
 /**
  * 应用页面View基类，每个View 必须要继承与该类并实现相应的方法
- * Created by Jorstin on 2015/3/18.
  */
 public abstract class CCPFragment extends Fragment {
 

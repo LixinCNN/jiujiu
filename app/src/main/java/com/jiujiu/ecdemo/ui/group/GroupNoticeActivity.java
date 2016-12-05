@@ -38,9 +38,6 @@ import com.yuntongxun.ecsdk.im.group.ECGroupNoticeMessage;
 
 /**
  * 群组通知列表接口
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-31
- * @version 4.0
  */
 public class GroupNoticeActivity extends ECSuperActivity implements
         View.OnClickListener ,GroupService.Callback{

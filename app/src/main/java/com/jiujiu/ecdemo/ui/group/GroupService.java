@@ -39,9 +39,6 @@ import java.util.List;
 
 /**
  * 群组同步
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-18
- * @version 4.0
  */
 public class GroupService {
     private static final String TAG  = "ECSDK_Demo.GroupService";

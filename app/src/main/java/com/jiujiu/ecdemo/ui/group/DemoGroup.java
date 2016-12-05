@@ -23,11 +23,7 @@ import com.yuntongxun.ecsdk.im.ECGroup;
 import java.util.ArrayList;
 
 
-/**
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-18
- * @version 4.0
- */
+
 public class DemoGroup extends ECGroup {
 
     /**是否加入群组*/

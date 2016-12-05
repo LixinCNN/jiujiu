@@ -5,10 +5,7 @@ import android.database.Cursor;
 
 import com.jiujiu.ecdemo.common.utils.DemoUtils;
 
-/**
- * com.yuntongxun.ecdemo.ui.group in ECDemo_Android
- * Created by Jorstin on 2015/3/26.
- */
+
 public class DemoGroupNotice{
 
     private String id;

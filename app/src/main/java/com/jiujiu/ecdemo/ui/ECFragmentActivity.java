@@ -21,10 +21,7 @@ import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.utils.SupportSwipeModeUtils;
 import com.jiujiu.ecdemo.common.view.SwipeBackLayout;
 
-/**
- * com.yuntongxun.ecdemo.ui in ECDemo_Android
- * Created by Jorstin on 2015/6/19.
- */
+
 public class ECFragmentActivity extends FragmentActivity
         implements SwipeActivityManager.SwipeListener, SwipeBackLayout.OnSwipeGestureDelegate {
 

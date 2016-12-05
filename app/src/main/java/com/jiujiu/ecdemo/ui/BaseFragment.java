@@ -21,7 +21,6 @@ import com.jiujiu.ecdemo.common.AudioManagerTools;
 
 /**
  * 自定义BaseFragment，处理上下音量键按下事件
- * Created by Jorstin on 2015/3/18.
  */
 public abstract class BaseFragment extends CCPFragment {
 

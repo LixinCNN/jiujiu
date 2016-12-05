@@ -35,9 +35,6 @@ import com.yuntongxun.ecsdk.im.ECGroup;
 
 /**
  * 申请加入群组界面
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-31
- * @version 4.0
  */
 public class ApplyWithGroupPermissionActivity extends ECSuperActivity implements
 		GroupService.Callback ,View.OnClickListener , GroupService.OnApplyGroupCallbackListener{

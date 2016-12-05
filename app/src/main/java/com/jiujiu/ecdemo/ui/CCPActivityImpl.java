@@ -13,9 +13,7 @@
 
 import android.view.View;
 
-/**
- * Created by Jorstin on 2015/3/18.
- */
+
 public class CCPActivityImpl extends CCPActivityBase {
 
     final private ECSuperActivity mActivity;

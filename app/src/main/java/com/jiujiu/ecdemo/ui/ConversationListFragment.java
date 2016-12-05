@@ -50,7 +50,6 @@ import java.util.ArrayList;
 
 /**
  * 会话界面
- * Created by Jorstin on 2015/3/18.
  */
 public class ConversationListFragment extends TabFragment implements CCPListAdapter.OnListAdapterCallBackListener {
 

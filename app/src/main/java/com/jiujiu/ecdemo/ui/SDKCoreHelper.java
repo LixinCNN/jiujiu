@@ -40,9 +40,7 @@ import com.yuntongxun.ecsdk.meeting.video.ECVideoMeetingMsg;
 
 import java.io.InvalidClassException;
 
-/**
- * Created by Jorstin on 2015/3/17.
- */
+
 public class SDKCoreHelper implements ECDevice.InitListener , ECDevice.OnECDeviceConnectListener,ECDevice.OnLogoutListener {
 
     public static final String TAG = "SDKCoreHelper";

@@ -7,10 +7,7 @@ import android.view.View;
 import com.jiujiu.ecdemo.ui.ActivityTransition;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 
-/**
- * com.yuntongxun.ecdemo.ui.group in ECDemo_Android
- * Created by Jorstin on 2015/4/2.
- */
+
 @ActivityTransition(2)
 public class BaseSearch extends ECSuperActivity implements View.OnClickListener{
 

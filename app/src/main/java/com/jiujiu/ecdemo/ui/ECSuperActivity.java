@@ -25,9 +25,6 @@ import com.jiujiu.ecdemo.common.view.TopBarView;
 
 import java.util.Set;
 
-/**
- * Created by Jorstin on 2015/3/17.
- */
 @ActivityTransition(0)
 public abstract class ECSuperActivity extends ECFragmentActivity implements GestureDetector.OnGestureListener{
 

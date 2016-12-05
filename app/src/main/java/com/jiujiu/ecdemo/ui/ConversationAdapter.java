@@ -46,9 +46,7 @@ import java.util.ArrayList;
 
 
 /**
- * @author 容联•云通讯
- * @date 2014-12-8
- * @version 4.0
+ * 会话数据源
  */
 public class ConversationAdapter extends CCPListAdapter <Conversation> {
 

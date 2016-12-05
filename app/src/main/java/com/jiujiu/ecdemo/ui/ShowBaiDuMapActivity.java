@@ -19,9 +19,7 @@ import com.baidu.mapapi.map.MarkerOptions;
 import com.baidu.mapapi.model.LatLng;
 
 /**
- * 
- * @author luhuashan显示收到或者发送的位置地图
- *
+ *显示收到或者发送的位置地图
  */
 public class ShowBaiDuMapActivity extends ECSuperActivity implements
 		OnClickListener {

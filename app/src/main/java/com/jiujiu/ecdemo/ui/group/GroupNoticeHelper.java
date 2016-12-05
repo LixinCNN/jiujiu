@@ -39,11 +39,6 @@ import com.yuntongxun.ecsdk.im.group.ECReplyJoinGroupMsg;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-/**
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-31
- * @version 4.0
- */
 public class GroupNoticeHelper {
 
 	/**群组通知接口*/
