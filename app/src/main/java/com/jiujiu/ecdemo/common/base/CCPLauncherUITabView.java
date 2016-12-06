@@ -18,7 +18,6 @@ import com.jiujiu.ecdemo.common.utils.LogUtil;
 
 /**
  * 主界面Tab容器
- * Created by Jorstin on 2015/3/18.
  */
 public class CCPLauncherUITabView extends RelativeLayout implements View.OnClickListener {
 

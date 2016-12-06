@@ -17,7 +17,6 @@ import android.widget.BaseAdapter;
 
 /**
  * 自定义数据适配器
- * Created by Jorstin on 2015/3/18.
  */
 public abstract class CommAdapter extends BaseAdapter {
 

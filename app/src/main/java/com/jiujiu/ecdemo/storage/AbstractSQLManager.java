@@ -25,9 +25,6 @@ import com.yuntongxun.ecsdk.ECMessage;
 
 /**
  * 数据库访问接口
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-11
- * @version 4.0
  */
 public abstract class AbstractSQLManager {
 

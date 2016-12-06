@@ -32,9 +32,6 @@ import java.util.List;
 
 /**
  * 对话框
- * @author Jorstin Chan@容联•云通讯
- * @date 2015-1-3
- * @version 4.0
  */
 public class ECAlertDialog extends Dialog implements View.OnClickListener {
 

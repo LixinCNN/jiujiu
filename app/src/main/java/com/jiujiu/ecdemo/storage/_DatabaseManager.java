@@ -5,10 +5,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * com.yuntongxun.ecdemo.storage in ECDemo_Android
- * Created by Jorstin on 2015/4/17.
- */
+
 public class _DatabaseManager {
     private AtomicInteger mOpenCounter = new AtomicInteger();
 

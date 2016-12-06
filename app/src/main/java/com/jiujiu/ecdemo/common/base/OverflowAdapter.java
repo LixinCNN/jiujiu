@@ -21,7 +21,6 @@ import android.widget.TextView;
 
 /**
  * ActionBar 下拉菜单数据适配器
- * Created by Jorstin on 2015/3/18.
  */
 public class OverflowAdapter extends CommAdapter {
 

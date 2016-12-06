@@ -32,10 +32,6 @@ import java.util.Random;
 
 /**
  * 联系人数据库管理
- *
- * @author Jorstin Chan@容联•云通讯
- * @version 4.0
- * @date 2014-12-12
  */
 public class ContactSqlManager extends AbstractSQLManager {
 

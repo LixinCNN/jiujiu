@@ -14,11 +14,7 @@ package com.jiujiu.ecdemo.storage;
 
 import java.util.ArrayList;
 
-/**
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-13
- * @version 4.0
- */
+
 public abstract class ECObservable<T> {
 
 	protected final ArrayList<T> mObservers = new ArrayList<T>();

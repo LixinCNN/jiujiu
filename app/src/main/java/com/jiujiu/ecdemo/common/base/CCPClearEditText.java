@@ -21,15 +21,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.EditText;
 
-/**
- * <p>Title: CCPClearEditText</p>
- * <p>Description: </p>
- * <p>Copyright: Copyright (c) 2014</p>
- * <p>Company: Beijing Speedtong Information Technology Co.,Ltd</p>
- * @author Jorstin Chan
- * @date 2014-4-6
- * @version 1.0
- */
+
 public class CCPClearEditText extends EditText implements View.OnTouchListener , View.OnFocusChangeListener{
 
 	final Drawable mClear = getResources().getDrawable(com.jiujiu.ecdemo.R.drawable.search_clear);

@@ -24,10 +24,6 @@ import java.util.ArrayList;
 
 /**
  * 会话消息数据库管理
- *
- * @author Jorstin Chan@容联•云通讯
- * @version 4.0
- * @date 2014-12-11
  */
 public class ConversationSqlManager extends AbstractSQLManager {
 

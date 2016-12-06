@@ -26,7 +26,6 @@ import com.jiujiu.ecdemo.common.view.PopupMenuListView;
 
 /**
  * 自定义Overflow ActionBar菜单，显示下拉更多选项
- * Created by Jorstin on 2015/3/18.
  */
 public class OverflowHelper {
 

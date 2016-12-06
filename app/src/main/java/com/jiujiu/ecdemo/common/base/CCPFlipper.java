@@ -29,15 +29,6 @@ import com.jiujiu.ecdemo.common.utils.DensityUtil;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 
 
-/**
- * <p>Title: CCPFlipper.java</p>
- * <p>Description: </p>
- * <p>Copyright: Copyright (c) 2014</p>
- * <p>Company: Beijing Speedtong Information Technology Co.,Ltd</p>
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-10
- * @version 4.0
- */
 public class CCPFlipper extends ViewGroup {
 
 
