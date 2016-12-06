@@ -1,8 +1,5 @@
 package com.jiujiu.ecdemo.ui.account;
 
-import java.io.InvalidClassException;
-import java.util.ArrayList;
-
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,7 +9,6 @@ import android.view.View.OnLongClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.jiujiu.ecdemo.ui.settings.LoginSettingActivity;
 import com.jiujiu.ecdemo.R;
 import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.common.base.CCPFormInputView;
@@ -29,9 +25,13 @@ import com.jiujiu.ecdemo.ui.LauncherActivity;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.contact.ContactLogic;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;
+import com.jiujiu.ecdemo.ui.settings.LoginSettingActivity;
 import com.yuntongxun.ecsdk.ECDevice;
 import com.yuntongxun.ecsdk.ECInitParams;
 import com.yuntongxun.ecsdk.SdkErrorCode;
+
+import java.io.InvalidClassException;
+import java.util.ArrayList;
 
 /**
  * Created by Jorstin on 2015/3/18.

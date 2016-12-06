@@ -1,7 +1,5 @@
 package com.jiujiu.ecdemo.ui.account;
 
-import java.io.InvalidClassException;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -18,6 +16,8 @@ import com.jiujiu.ecdemo.core.comparator.ServerConfigBean;
 import com.jiujiu.ecdemo.storage.ServerConfigSqlManager;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 import com.yuntongxun.ecsdk.ECDevice;
+
+import java.io.InvalidClassException;
 
 public class ECSetUpServerActivity extends ECSuperActivity implements
 		OnClickListener {
