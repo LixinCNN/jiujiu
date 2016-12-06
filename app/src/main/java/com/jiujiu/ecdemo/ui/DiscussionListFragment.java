@@ -23,7 +23,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
 import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.common.utils.ECPreferences;
 import com.jiujiu.ecdemo.common.utils.LogUtil;

@@ -18,8 +18,6 @@ import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
-import com.jiujiu.ecdemo.storage.GroupMemberSqlManager;
-import com.jiujiu.ecdemo.storage.GroupSqlManager;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.yuntongxun.ecsdk.ECError;
 import com.yuntongxun.ecsdk.ECGroupManager;

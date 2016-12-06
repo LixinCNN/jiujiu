@@ -26,7 +26,6 @@ import com.nostra13.universalimageloader.core.listener.ImageLoadingProgressListe
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;
 import com.nostra13.universalimageloader.utils.DiskCacheUtils;
 import com.jiujiu.ecdemo.R;
-import com.jiujiu.ecdemo.common.dialog.ECListDialog;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.photoview.PhotoView;
 import com.jiujiu.ecdemo.photoview.PhotoViewAttacher;

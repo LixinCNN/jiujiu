@@ -35,8 +35,6 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 
 import com.jiujiu.ecdemo.common.dialog.ECAlertDialog;
-import com.jiujiu.ecdemo.common.dialog.ECListDialog;
-import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
 import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
 import com.jiujiu.ecdemo.common.utils.ECPreferences;
@@ -44,8 +42,6 @@ import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.common.view.SettingItem;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
-import com.jiujiu.ecdemo.storage.GroupMemberSqlManager;
-import com.jiujiu.ecdemo.storage.GroupSqlManager;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.chatting.ChattingActivity;
 import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;

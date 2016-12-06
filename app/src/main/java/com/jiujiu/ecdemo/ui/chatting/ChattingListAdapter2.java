@@ -24,7 +24,6 @@ import com.jiujiu.ecdemo.ui.chatting.model.CallRxRow;
 import com.jiujiu.ecdemo.ui.chatting.model.CallTxRow;
 import com.jiujiu.ecdemo.ui.chatting.model.FileRxRow;
 import com.jiujiu.ecdemo.ui.chatting.model.RichTextTxRow;
-import com.jiujiu.ecdemo.storage.ConversationSqlManager;
 import com.jiujiu.ecdemo.ui.CCPListAdapter;
 import com.jiujiu.ecdemo.ui.chatting.holder.BaseHolder;
 import com.jiujiu.ecdemo.ui.chatting.model.ChattingRowType;

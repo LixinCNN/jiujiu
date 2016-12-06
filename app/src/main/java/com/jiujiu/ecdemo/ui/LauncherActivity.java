@@ -37,7 +37,6 @@ import android.view.View;
 import android.widget.AdapterView;
 
 import com.jiujiu.ecdemo.common.dialog.ECAlertDialog;
-import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
 import com.jiujiu.ecdemo.common.utils.CrashHandler;
 import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.common.utils.ECNotificationManager;
@@ -47,9 +46,6 @@ import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.core.ClientUser;
 import com.jiujiu.ecdemo.core.ContactsCache;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
-import com.jiujiu.ecdemo.storage.ConversationSqlManager;
-import com.jiujiu.ecdemo.storage.GroupNoticeSqlManager;
-import com.jiujiu.ecdemo.storage.GroupSqlManager;
 import com.jiujiu.ecdemo.ui.account.LoginActivity;
 import com.jiujiu.ecdemo.ui.chatting.ChattingActivity;
 import com.jiujiu.ecdemo.ui.chatting.CustomerServiceHelper;
