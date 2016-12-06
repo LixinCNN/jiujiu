@@ -8,6 +8,10 @@
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout-v11\\abc_action_bar_decor.xml"
     },
     {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_simple_decor.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout-v11\\abc_simple_decor.xml"
+    },
+    {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_simple_decor.xml",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout-v11\\abc_simple_decor.xml"
     },
@@ -30,5 +34,9 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_simple_decor.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout-v11\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout-v11\\abc_action_bar_decor.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout-v11\\abc_action_bar_decor.xml"
     }
 ]

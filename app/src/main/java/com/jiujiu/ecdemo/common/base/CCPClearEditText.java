@@ -27,6 +27,7 @@ public class CCPClearEditText extends EditText implements View.OnTouchListener ,
 	final Drawable mClear = getResources().getDrawable(com.jiujiu.ecdemo.R.drawable.search_clear);
 	/**
 	 * @param context
+	 * 测试1
 	 */
 	public CCPClearEditText(Context context) {
 		super(context);
