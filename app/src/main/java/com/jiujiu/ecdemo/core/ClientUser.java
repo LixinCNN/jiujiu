@@ -13,7 +13,7 @@ import org.json.JSONObject;
  */
 public class ClientUser implements Parcelable {
 
-    public static final Parcelable.Creator<ClientUser> CREATOR = new Parcelable.Creator<ClientUser>() {
+    public static final Creator<ClientUser> CREATOR = new Creator<ClientUser>() {
         public ClientUser createFromParcel(Parcel in) {
             return new ClientUser(in);
         }
