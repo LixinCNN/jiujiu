@@ -48,7 +48,6 @@ import com.jiujiu.ecdemo.common.utils.ECNotificationManager;
 import com.jiujiu.ecdemo.common.utils.ECPreferences;
 import com.jiujiu.ecdemo.common.utils.FileAccessor;
 import com.jiujiu.ecdemo.core.ECAsyncTask;
-import com.jiujiu.ecdemo.photopicker.PhotoPickerActivity;
 import com.jiujiu.ecdemo.ui.chatting.base.ECPullDownView;
 import com.jiujiu.ecdemo.ui.chatting.base.OnListViewTopListener;
 import com.jiujiu.ecdemo.ui.contact.ContactDetailActivity;

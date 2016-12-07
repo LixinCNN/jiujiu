@@ -14,10 +14,6 @@
 
 /**
  * 图片实体信息
- * 
- * @author 容联•云通讯
- * @since 2016-4-6
- * @version 5.0
  */
 public class Photo {
 
