@@ -20,6 +20,7 @@ import com.yuntongxun.ecsdk.im.ECMessageNotify;
 import com.yuntongxun.ecsdk.im.group.ECGroupNoticeMessage;
 
 /**
+ * 广播通知服务
  * SDK通知会分三种提醒方式
  * <p>1、直接通过设置的回调接口（OnChatReceiveListener）Push给应用
  * <p>2、如果应用没有设置回调接口则采用（BroadcastReceiver）广播通知（v5.1.8版本）此时如果应用处于未运行状态则会直接唤醒应用处理
