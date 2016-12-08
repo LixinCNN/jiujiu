@@ -12,7 +12,6 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.R;
 import com.jiujiu.ecdemo.common.dialog.ECListDialog;
 import com.jiujiu.ecdemo.common.utils.CommomUtil;
 import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
@@ -27,9 +26,7 @@ import java.io.InvalidClassException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by luhuashan on 16/3/18.
- */
+
 public class ECServerConfigListUI extends ECSuperActivity implements View.OnClickListener {
     private static final String TAG = "ECServerConfigListUI";
 
@@ -40,7 +37,7 @@ public class ECServerConfigListUI extends ECSuperActivity implements View.OnClic
      */
     @Override
     protected int getLayoutId() {
-        return R.layout.ec_serverconfig_list;
+        return com.jiujiu.ecdemo.R.layout.ec_serverconfig_list;
 
     }
 
@@ -48,7 +45,7 @@ public class ECServerConfigListUI extends ECSuperActivity implements View.OnClic
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getTopBarView().setTopBarToStatus(1, R.drawable.topbar_back_bt,
+        getTopBarView().setTopBarToStatus(1, com.jiujiu.ecdemo.R.drawable.topbar_back_bt,
                 -1, null,null,
                 "配置列表", null, this);
         initView();
@@ -59,7 +56,7 @@ public class ECServerConfigListUI extends ECSuperActivity implements View.OnClic
     private ServerConfigAdapter adapter;
 
     private void initView() {
-        lv= (ListView) findViewById(R.id.lv_serverconfig);
+        lv= (ListView) findViewById(com.jiujiu.ecdemo.R.id.lv_serverconfig);
          list= ServerConfigSqlManager.queryServerConfigs();
         adapter=new ServerConfigAdapter(this,0,list);
         lv.setAdapter(adapter);
@@ -73,7 +70,7 @@ public class ECServerConfigListUI extends ECSuperActivity implements View.OnClic
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
-            case R.id.btn_left:
+            case com.jiujiu.ecdemo.R.id.btn_left:
                 hideSoftKeyboard();
                 finish();
                 break;
@@ -108,7 +105,7 @@ public class ECServerConfigListUI extends ECSuperActivity implements View.OnClic
         return true;
     }
 
-    private void doOperate(ServerConfigBean bean,int position) {
+    private void doOperate(ServerConfigBean bean, int position) {
 
         if(position==0){
             if(bean!=null) {
@@ -175,14 +172,14 @@ public class ECServerConfigListUI extends ECSuperActivity implements View.OnClic
             View view;
             ServerConfigHolder holder;
             if (convertView == null || convertView.getTag() == null) {
-                view = getLayoutInflater().inflate(R.layout.voice_meeting_item, null);
+                view = getLayoutInflater().inflate(com.jiujiu.ecdemo.R.layout.voice_meeting_item, null);
                 holder = new ServerConfigHolder();
                 view.setTag(holder);
 
-                holder.name = (TextView) view.findViewById(R.id.chatroom_name);
-                holder.tips = (TextView) view.findViewById(R.id.chatroom_tips);
-                holder.lock = (ImageView) view.findViewById(R.id.lock);
-                holder.tvGo=(TextView)view.findViewById(R.id.goto_icon);
+                holder.name = (TextView) view.findViewById(com.jiujiu.ecdemo.R.id.chatroom_name);
+                holder.tips = (TextView) view.findViewById(com.jiujiu.ecdemo.R.id.chatroom_tips);
+                holder.lock = (ImageView) view.findViewById(com.jiujiu.ecdemo.R.id.lock);
+                holder.tvGo=(TextView)view.findViewById(com.jiujiu.ecdemo.R.id.goto_icon);
             } else {
                 view = convertView;
                 holder = (ServerConfigHolder) convertView.getTag();

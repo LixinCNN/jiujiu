@@ -3,9 +3,7 @@ package com.jiujiu.ecdemo.pojo;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-/**
- * Created by luhuashan on 16/3/25.
- */
+
 public class RichTextBean implements Parcelable {
 
     private String title;

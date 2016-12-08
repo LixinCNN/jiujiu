@@ -49,10 +49,6 @@ import java.util.UUID;
 
 /**
  * 消息数据库管理
- *
- * @author Jorstin Chan@容联•云通讯
- * @version 4.0
- * @date 2014-12-11
  */
 public class IMessageSqlManager extends AbstractSQLManager {
 
@@ -156,8 +152,8 @@ public class IMessageSqlManager extends AbstractSQLManager {
 //            return -1;
 //        }
         boolean isSelf = false;
-        if(message.getType()==Type.TXT){
-           ECTextMessageBody  txtBody =(ECTextMessageBody)message.getBody();
+        if(message.getType()== Type.TXT){
+           ECTextMessageBody txtBody =(ECTextMessageBody)message.getBody();
            if(txtBody!=null&&txtBody.getMessage().startsWith("你领取了")){
                isSelf =true;
            }
@@ -241,7 +237,7 @@ public class IMessageSqlManager extends AbstractSQLManager {
                                 values.put(IMessageColumn.BODY, videoBody.getLength() + "");
                             }
 
-							if(message.getType()==Type.RICH_TEXT){
+							if(message.getType()== Type.RICH_TEXT){
 								ECPreviewMessageBody body=(ECPreviewMessageBody) message.getBody();
 								values.put(IMessageColumn.FILE_URL,body.getUrl());
 								values.put(IMessageColumn.BODY,body.getTitle());
@@ -511,7 +507,7 @@ public class IMessageSqlManager extends AbstractSQLManager {
 						 * cursor
 						 * .getString(cursor.getColumnIndexOrThrow(IMessageColumn
 						 * .FILE_PATH));
-						 * 
+						 *
 						 * if (msgType == ECMessage.Type.VOICE.ordinal()) { int
 						 * duration =
 						 * cursor.getInt(cursor.getColumnIndexOrThrow(
@@ -861,14 +857,14 @@ public class IMessageSqlManager extends AbstractSQLManager {
             ecMessage.setType(ECMessage.Type.TXT);
             ECTextMessageBody textBody = new ECTextMessageBody(content);
             ecMessage.setBody(textBody);
-        }else if(msgType ==Type.CALL.ordinal()){
+        }else if(msgType == Type.CALL.ordinal()){
             String content = cursor.getString(cursor
                     .getColumnIndexOrThrow(IMessageColumn.BODY));
             ECCallMessageBody body=new ECCallMessageBody(content);
             ecMessage.setType(Type.CALL);
             ecMessage.setBody(body);
         }
-        else if(msgType==ECMessage.Type.LOCATION.ordinal()){
+        else if(msgType== ECMessage.Type.LOCATION.ordinal()){
             String content = cursor.getString(cursor
                     .getColumnIndexOrThrow(IMessageColumn.BODY));
             ecMessage.setType(ECMessage.Type.LOCATION);

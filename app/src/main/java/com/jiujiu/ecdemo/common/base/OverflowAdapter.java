@@ -19,8 +19,11 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.jiujiu.ecdemo.R;
+
 /**
  * ActionBar 下拉菜单数据适配器
+ * Created by Jorstin on 2015/3/18.
  */
 public class OverflowAdapter extends CommAdapter {
 
@@ -71,10 +74,10 @@ public class OverflowAdapter extends CommAdapter {
     private void setItemEnabled(boolean enabled , TextView textView , ViewGroup parent){
         if(enabled) {
             textView.setTextColor(mHelper.getNormalColor());
-            setViewPadding(parent, com.jiujiu.ecdemo.R.drawable.common_popup_menu_item);
+            setViewPadding(parent, R.drawable.common_popup_menu_item);
         } else {
             textView.setTextColor(mHelper.getDisabledColor());
-            setViewPadding(parent, com.jiujiu.ecdemo.R.drawable.transparent);
+            setViewPadding(parent, R.drawable.transparent);
         }
     }
 
@@ -132,17 +135,17 @@ public class OverflowAdapter extends CommAdapter {
      */
     private void findViewId(View convertView) {
         ViewHolder holder = new ViewHolder();
-        holder.icon = (ImageView) convertView.findViewById(com.jiujiu.ecdemo.R.id.popup_menu_item_left_image);
-        holder.title = (TextView) convertView.findViewById(com.jiujiu.ecdemo.R.id.popup_menu_item_name);
-        holder.root = (ViewGroup) convertView.findViewById(com.jiujiu.ecdemo.R.id.popup_container);
-        holder.point = (ImageView) convertView.findViewById(com.jiujiu.ecdemo.R.id.popup_menu_image_red);
+        holder.icon = (ImageView) convertView.findViewById(R.id.popup_menu_item_left_image);
+        holder.title = (TextView) convertView.findViewById(R.id.popup_menu_item_name);
+        holder.root = (ViewGroup) convertView.findViewById(R.id.popup_container);
+        holder.point = (ImageView) convertView.findViewById(R.id.popup_menu_image_red);
         convertView.setTag(holder);
     }
 
     @Override
     protected View buildViewByType(int position, ViewGroup parent,
                                    int itemViewType) {
-        View itemView = mLayoutInflater.inflate(com.jiujiu.ecdemo.R.layout.comm_popup_menu_item, parent, false);
+        View itemView = mLayoutInflater.inflate(R.layout.comm_popup_menu_item, parent, false);
         findViewId(itemView);
         return itemView;
     }

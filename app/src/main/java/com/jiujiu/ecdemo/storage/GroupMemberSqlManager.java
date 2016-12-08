@@ -25,7 +25,7 @@ import java.util.List;
 
 
 /**
- * 群组数据库接口
+ * 群组成员数据库接口
  */
 public class GroupMemberSqlManager extends AbstractSQLManager {
 
@@ -49,7 +49,7 @@ public class GroupMemberSqlManager extends AbstractSQLManager {
     }
     
     public static Cursor getGroupMembersByCursorExceptSelf(String groupId) {
-    	String selfVoip=CCPAppManager.getUserId();
+    	String selfVoip= CCPAppManager.getUserId();
         String sql = "select voipaccount ,contacts.username ,contacts.remark ,role ,isban from group_members ,contacts  where group_members.voipaccount  != '" + selfVoip + "'   and group_id ='" + groupId + "' and contacts.contact_id = group_members.voipaccount order by role" ;
         return getInstance().sqliteDB().rawQuery(sql , null);
     }

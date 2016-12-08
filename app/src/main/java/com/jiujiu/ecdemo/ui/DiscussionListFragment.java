@@ -23,24 +23,31 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.jiujiu.ecdemo.R;
+import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
 import com.jiujiu.ecdemo.common.utils.DemoUtils;
+import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
 import com.jiujiu.ecdemo.common.utils.ECPreferences;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.view.SettingItem;
 import com.jiujiu.ecdemo.core.ClientUser;
+import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
 import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;
 import com.jiujiu.ecdemo.ui.contact.ContactLogic;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;
-import com.jiujiu.ecdemo.ui.settings.SettingPersionInfoActivity;
-import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
-import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.settings.EditConfigureActivity;
+import com.jiujiu.ecdemo.ui.settings.SettingPersionInfoActivity;
 
 import java.io.InvalidClassException;
 
 /**
  * 讨论组列表界面
+ * 
+ * @author 容联•云通讯
+ * @date 2014-12-4
+ * @version 4.0
  */
 public class DiscussionListFragment extends TabFragment implements
 		View.OnClickListener{
@@ -75,7 +82,7 @@ public class DiscussionListFragment extends TabFragment implements
 	private int mExitType = 0;
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-		return inflater.inflate(com.jiujiu.ecdemo.R.layout.settings_activity, container, false);
+		return inflater.inflate(R.layout.setting_activity, container, false);
 
 	}
 
@@ -105,11 +112,11 @@ public class DiscussionListFragment extends TabFragment implements
 				updateNewMsgNotification(1);
 			}
 		});
-		mSettingExit = (SettingItem) view.findViewById(com.jiujiu.ecdemo.R.id.setting_exit);
-		mSettingExit.setVisibility(View.GONE);
+//		mSettingExit = (SettingItem) view.findViewById(com.jiujiu.ecdemo.R.id.setting_exit);
+//		mSettingExit.setVisibility(View.GONE);
 //		mSettingExit.setOnClickListener(mSettingExitClickListener);
-		mSettingSwitch = (SettingItem) view.findViewById(com.jiujiu.ecdemo.R.id.setting_switch);
-		mSettingSwitch.setVisibility(View.GONE);
+//		mSettingSwitch = (SettingItem) view.findViewById(com.jiujiu.ecdemo.R.id.setting_switch);
+//		mSettingSwitch.setVisibility(View.GONE);
 //		mSettingSwitch.setOnClickListener(mSettingSwitchClickListener);
 
 		mSettingAbout = (SettingItem) view.findViewById(com.jiujiu.ecdemo.R.id.settings_about);
@@ -198,7 +205,7 @@ public class DiscussionListFragment extends TabFragment implements
 	 * 处理退出操作
 	 */
 	private void handleLogout(boolean isNotice) {
-		mPostingdialog = new ECProgressDialog(getActivity(), com.jiujiu.ecdemo.R.string.posting_logout);
+		mPostingdialog = new ECProgressDialog(getActivity(), R.string.posting_logout);
 		mPostingdialog.show();
 		SDKCoreHelper.logout(isNotice);
 		if (!isNotice){
@@ -301,14 +308,16 @@ public class DiscussionListFragment extends TabFragment implements
 //				hideSoftKeyboard();
 //				finish();
 //				break;
-			case com.jiujiu.ecdemo.R.id.text_right://可更改为界面内部的按钮
+			case R.id.text_right://可更改为界面内部的按钮
 				startActivity(new Intent(getActivity() , SettingPersionInfoActivity.class));
 				break;
-			case com.jiujiu.ecdemo.R.id.settings_about:
+			case R.id.settings_update:
 				break;
-			case com.jiujiu.ecdemo.R.id.settings_ratio:
+			case R.id.settings_about:
 				break;
-			case com.jiujiu.ecdemo.R.id.settings_suggest:
+			case R.id.settings_ratio:
+				break;
+			case R.id.settings_suggest:
 				break;
 			default:
 				break;
@@ -336,7 +345,7 @@ public class DiscussionListFragment extends TabFragment implements
 	@Override
 	protected int getLayoutId() {
 		// TODO Auto-generated method stub
-		return com.jiujiu.ecdemo.R.layout.settings_activity;
+		return R.layout.settings_activity;
 	}
 	@Override
 	protected void onTabFragmentClick() {

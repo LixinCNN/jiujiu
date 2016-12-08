@@ -14,7 +14,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
+/**
+ * com.yuntongxun.ecdemo.common.dialog in ECDemo_Android
+ * Created by Jorstin on 2015/4/18.
+ */
 public class ECListDialog extends ECAlertDialog implements AdapterView.OnItemClickListener {
 
     private List<Integer> mCheckIndex;

@@ -24,9 +24,6 @@ import com.yuntongxun.ecsdk.ECMessage;
 
 /**
  * 群组通知消息数据库
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-31
- * @version 4.0
  */
 public class GroupNoticeSqlManager extends AbstractSQLManager {
 
@@ -228,7 +225,7 @@ public class GroupNoticeSqlManager extends AbstractSQLManager {
 
     public static long updateNoticeOperation(String id, boolean isAccept) {
         ContentValues values = new ContentValues();
-        values.put("confirm" , isAccept? GroupNoticeHelper.SYSTEM_MESSAGE_THROUGH:GroupNoticeHelper.SYSTEM_MESSAGE_REFUSE);
+        values.put("confirm" , isAccept? GroupNoticeHelper.SYSTEM_MESSAGE_THROUGH: GroupNoticeHelper.SYSTEM_MESSAGE_REFUSE);
         return getInstance().sqliteDB().update(DatabaseHelper.TABLES_NAME_SYSTEM_NOTICE , values ,"notice_id='" + id +"'", null);
     }
 }

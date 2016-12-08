@@ -25,11 +25,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-18
- * @version 4.0
- */
+/*
+* 群组数据库管理
+*/
 public class GroupSqlManager extends AbstractSQLManager {
 
     Object mLock = new Object();
@@ -237,7 +235,7 @@ public class GroupSqlManager extends AbstractSQLManager {
      * @param group
      * @param join
      */
-    public static long insertGroup(ECGroup group , boolean join , boolean ignoreJoin,boolean isDiscussion) {
+    public static long insertGroup(ECGroup group , boolean join , boolean ignoreJoin, boolean isDiscussion) {
         if(group == null || TextUtils.isEmpty(group.getGroupId())) {
             return -1L;
         }

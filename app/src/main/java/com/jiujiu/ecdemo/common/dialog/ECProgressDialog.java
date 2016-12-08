@@ -24,6 +24,9 @@ import android.widget.TextView;
 
 /**
  * 网络访问对话框
+ * @author Jorstin Chan@容联•云通讯
+ * @date 2015-1-4
+ * @version 4.0
  */
 public class ECProgressDialog extends Dialog {
 

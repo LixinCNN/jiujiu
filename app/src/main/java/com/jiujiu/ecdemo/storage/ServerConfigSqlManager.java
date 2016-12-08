@@ -14,9 +14,7 @@ import com.jiujiu.ecdemo.core.comparator.ServerConfigBean;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by luhuashan on 16/3/17.
- */
+
 public class ServerConfigSqlManager  {
 
     static final String SERVER_CONFIG_DATABASE_NAME = "ECDEMO_ServerConfig.db";
@@ -133,7 +131,7 @@ public class ServerConfigSqlManager  {
        values.put(ServerConfigColumn.APPTOKEN,serverConfigBean.getApptoken());
        return sqliteDB.insert(SERVER_CONFIG_TABLE_NAME, null, values);
    }
-   public static long updateServerConfig(ServerConfigBean serverConfigBean,String name){
+   public static long updateServerConfig(ServerConfigBean serverConfigBean, String name){
             if(serverConfigBean==null){
                 return 0;
             }

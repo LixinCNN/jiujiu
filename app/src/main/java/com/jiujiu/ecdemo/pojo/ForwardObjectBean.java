@@ -1,8 +1,6 @@
 package com.jiujiu.ecdemo.pojo;
 
-/**
- * Created by luhuashan on 16/3/25.
- */
+
 public class ForwardObjectBean {
 
     private String userId;

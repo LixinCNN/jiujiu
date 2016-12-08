@@ -11,9 +11,7 @@
  *  be found in the AUTHORS file in the root of the source tree.
  */package com.jiujiu.ecdemo.storage;
 
-/**
- * Created by Jorstin on 2015/3/18.
- */
+
 public interface OnMessageChange {
     /**
      * 数据库改变

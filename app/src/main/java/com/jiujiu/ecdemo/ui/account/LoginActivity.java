@@ -9,7 +9,6 @@ import android.view.View.OnLongClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.jiujiu.ecdemo.R;
 import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.common.base.CCPFormInputView;
 import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
@@ -32,10 +31,10 @@ import com.yuntongxun.ecsdk.SdkErrorCode;
 
 import java.io.InvalidClassException;
 import java.util.ArrayList;
+/*
+登录页面
+*/
 
-/**
- * Created by Jorstin on 2015/3/18.
- */
 public class LoginActivity extends ECSuperActivity implements
 		View.OnClickListener, OnLongClickListener {
 
@@ -58,10 +57,10 @@ public class LoginActivity extends ECSuperActivity implements
 		initResourceRefs();
 
 		getTopBarView().setTopBarToStatus(1, -1,
-				R.drawable.btn_style_green,
+				com.jiujiu.ecdemo.R.drawable.btn_style_green,
 				null,
-				getString(R.string.app_title_switch),
-				getString(R.string.app_name), null, this);
+				getString(com.jiujiu.ecdemo.R.string.app_title_switch),
+				getString(com.jiujiu.ecdemo.R.string.app_name), null, this);
 		getTopBarView().getmMiddleButton().setOnLongClickListener(new OnLongClickListener() {
 
 			@Override
@@ -93,25 +92,25 @@ public class LoginActivity extends ECSuperActivity implements
 
 		if (TextUtils.isEmpty(appkey) || TextUtils.isEmpty(token)) {
 			signBtn.setEnabled(false);
-			ToastUtil.showMessage(R.string.app_server_config_error_tips);
+			ToastUtil.showMessage(com.jiujiu.ecdemo.R.string.app_server_config_error_tips);
 		}
 	}
 
 	private void initResourceRefs() {
-		ipEt = (EditText) findViewById(R.id.ip);
-		portEt = (EditText) findViewById(R.id.port);
-		appkeyEt = (EditText) findViewById(R.id.appkey);
-		tokenEt = (EditText) findViewById(R.id.token);
-		mFormInputView = (CCPFormInputView) findViewById(R.id.mobile);
+		ipEt = (EditText) findViewById(com.jiujiu.ecdemo.R.id.ip);
+		portEt = (EditText) findViewById(com.jiujiu.ecdemo.R.id.port);
+		appkeyEt = (EditText) findViewById(com.jiujiu.ecdemo.R.id.appkey);
+		tokenEt = (EditText) findViewById(com.jiujiu.ecdemo.R.id.token);
+		mFormInputView = (CCPFormInputView) findViewById(com.jiujiu.ecdemo.R.id.mobile);
 		mobileEt = mFormInputView.getFormInputEditView();
 //		mobileEt.setInputType(InputType.TYPE_CLASS_PHONE);
-		mFormInputViewPassword = (CCPFormInputView) findViewById(R.id.VoIP_mode);
+		mFormInputViewPassword = (CCPFormInputView) findViewById(com.jiujiu.ecdemo.R.id.VoIP_mode);
 		mVoipEt = mFormInputViewPassword.getFormInputEditView();
 		// mVoipEt.setInputType(InputType.TYPE_CLASS_PHONE);
 		mobileEt.requestFocus();
 		// mobileEt.setText(ECSDKUtils.getLine1Number(this));
-		signBtn = (Button) findViewById(R.id.sign_in_button);
-		findViewById(R.id.server_config).setOnLongClickListener(this);
+		signBtn = (Button) findViewById(com.jiujiu.ecdemo.R.id.sign_in_button);
+		findViewById(com.jiujiu.ecdemo.R.id.server_config).setOnLongClickListener(this);
 		signBtn.setOnClickListener(this);
 
 	}
@@ -128,7 +127,7 @@ public class LoginActivity extends ECSuperActivity implements
 
 	@Override
 	protected int getLayoutId() {
-		return R.layout.activity_login;
+		return com.jiujiu.ecdemo.R.layout.activity_login;
 	}
 
 	private boolean flag = true;
@@ -137,17 +136,17 @@ public class LoginActivity extends ECSuperActivity implements
 	public void onClick(View v) {
 
 		switch (v.getId()) {
-		case R.id.sign_in_button:
+		case com.jiujiu.ecdemo.R.id.sign_in_button:
 			hideSoftKeyboard();
 			String mobile = mobileEt.getText().toString().trim();
 			String pass = mVoipEt.getText().toString().trim();
 			if (mLoginAuthType == ECInitParams.LoginAuthType.NORMAL_AUTH
 					&& TextUtils.isEmpty(mobile)) {
-				ToastUtil.showMessage(R.string.input_mobile_error);
+				ToastUtil.showMessage(com.jiujiu.ecdemo.R.string.input_mobile_error);
 				return;
 			} else if (mLoginAuthType == ECInitParams.LoginAuthType.PASSWORD_AUTH) {
 				if (TextUtils.isEmpty(mobile) || TextUtils.isEmpty(pass)) {
-					ToastUtil.showMessage(R.string.app_input_paras_error);
+					ToastUtil.showMessage(com.jiujiu.ecdemo.R.string.app_input_paras_error);
 					return;
 				}
 
@@ -167,15 +166,15 @@ public class LoginActivity extends ECSuperActivity implements
 //				ToastUtil.showMessage("输入的账号不合法");
 //				return;
 //			}
-			mPostingdialog = new ECProgressDialog(this, R.string.login_posting);
+			mPostingdialog = new ECProgressDialog(this, com.jiujiu.ecdemo.R.string.login_posting);
 			mPostingdialog.show();
 			
 			SDKCoreHelper.init(this, ECInitParams.LoginMode.FORCE_LOGIN);
 			break;
-		case R.id.text_right:
+		case com.jiujiu.ecdemo.R.id.text_right:
 			switchAccountInput();
 			break;
-		case R.id.text_left:
+		case com.jiujiu.ecdemo.R.id.text_left:
 			break;
 		default:
 			break;
@@ -186,14 +185,14 @@ public class LoginActivity extends ECSuperActivity implements
 		if (mLoginAuthType == ECInitParams.LoginAuthType.NORMAL_AUTH) {
 			// 普通登陆模式
 			mLoginAuthType = ECInitParams.LoginAuthType.PASSWORD_AUTH;
-			mFormInputView .setInputTitle(getString(R.string.login_prompt_VoIP_account));
-			mobileEt.setHint(R.string.login_prompt_VoIP_account_tips);
+			mFormInputView .setInputTitle(getString(com.jiujiu.ecdemo.R.string.login_prompt_VoIP_account));
+			mobileEt.setHint(com.jiujiu.ecdemo.R.string.login_prompt_VoIP_account_tips);
 			mFormInputViewPassword.setVisibility(View.VISIBLE);
 		} else {
 			// 密码登陆模式
 			mLoginAuthType = ECInitParams.LoginAuthType.NORMAL_AUTH;
-			mFormInputView .setInputTitle(getString(R.string.login_prompt_mobile));
-			mobileEt.setHint(R.string.login_prompt_mobile_hint);
+			mFormInputView .setInputTitle(getString(com.jiujiu.ecdemo.R.string.login_prompt_mobile));
+			mobileEt.setHint(com.jiujiu.ecdemo.R.string.login_prompt_mobile_hint);
 			mFormInputViewPassword.setVisibility(View.GONE);
 		}
 

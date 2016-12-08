@@ -38,9 +38,6 @@ import java.util.List;
 
 /**
  * 图片保存
- * @author Jorstin Chan@容联•云通讯
- * @date 2015-1-4
- * @version 4.0
  */
 public class ImgInfoSqlManager extends AbstractSQLManager {
 
@@ -90,7 +87,7 @@ public class ImgInfoSqlManager extends AbstractSQLManager {
 		return null;
 	}
 
-	public class ImgInfoColumn extends BaseColumn{
+	public class ImgInfoColumn extends BaseColumn {
 		
 		public static final String MSGSVR_ID = "msgSvrId";
 		public static final String OFFSET = "offset";

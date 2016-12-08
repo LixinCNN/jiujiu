@@ -31,6 +31,9 @@ import static android.provider.MediaStore.MediaColumns.DATE_ADDED;
 
 /**
  * 图片加载工具类
+ * @author 容联•云通讯
+ * @since 2016-4-6
+ * @version 5.0
  */
 public class MediaStoreHelper {
 	public final static int INDEX_ALL_PHOTOS = 0;

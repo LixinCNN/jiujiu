@@ -23,7 +23,11 @@ import android.widget.EditText;
 import com.jiujiu.ecdemo.common.utils.EmoticonUtil;
 
 
-
+/**
+ * @author Jorstin Chan@容联•云通讯
+ * @date 2014-12-10
+ * @version 4.0
+ */
 public class CCPEditText extends EditText {
 
 

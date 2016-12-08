@@ -10,7 +10,10 @@ import android.widget.Button;
 import com.jiujiu.ecdemo.common.dialog.ECListDialog;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 
-
+/**
+ * com.yuntongxun.ecdemo.common.base in ECDemo_Android
+ * Created by Jorstin on 2015/7/22.
+ */
 public class SpinnerSelectView extends Button implements View.OnClickListener{
 
     private static final String TAG = "ECSDK_Demo.SpinnerSelectView";

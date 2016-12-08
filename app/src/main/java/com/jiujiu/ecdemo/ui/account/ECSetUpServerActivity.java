@@ -238,7 +238,7 @@ public class ECSetUpServerActivity extends ECSuperActivity implements
 
 	}
 
-	private  ServerConfigBean backUpServerBean;
+	private ServerConfigBean backUpServerBean;
 	@Override
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		super.onActivityResult(requestCode, resultCode, data);

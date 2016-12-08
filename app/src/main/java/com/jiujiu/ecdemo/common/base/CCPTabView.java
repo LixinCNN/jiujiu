@@ -30,6 +30,7 @@ import com.jiujiu.ecdemo.common.utils.LogUtil;
 
 /**
  * 每一个CCPTabView代表一个导航按钮，配合{@link CCPLauncherUITabView}使用
+ * Created by Jorstin on 2015/3/18.
  */
 public class CCPTabView extends ViewGroup {
 

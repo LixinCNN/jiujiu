@@ -20,6 +20,9 @@ import java.util.Date;
 
 /**
  * 图片工具类
+ * @author 容联•云通讯
+ * @since 2016-4-6
+ * @version 5.0
  */
 public class PhotoUtils {
 

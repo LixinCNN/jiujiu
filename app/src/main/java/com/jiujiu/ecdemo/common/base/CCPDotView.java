@@ -24,7 +24,11 @@ import android.widget.LinearLayout;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 
 
-
+/**
+ * @author Jorstin Chan@容联•云通讯
+ * @date 2014-12-10
+ * @version 4.0
+ */
 public class CCPDotView extends LinearLayout {
 
 	/**

@@ -84,17 +84,17 @@ public class YuntxNotifyReceiver extends ECNotifyReceiver {
         String state=null;
         if(deviceState.getDeviceType()== ECDeviceType.ANDROID_PAD){
             name="安卓pad端";
-        }else if(deviceState.getDeviceType()==ECDeviceType.IPAD){
+        }else if(deviceState.getDeviceType()== ECDeviceType.IPAD){
             name="ipad设备端";
-        }else if(deviceState.getDeviceType()==ECDeviceType.PC){
+        }else if(deviceState.getDeviceType()== ECDeviceType.PC){
             name="pc电脑端";
-        }else if(deviceState.getDeviceType()==ECDeviceType.WEB){
+        }else if(deviceState.getDeviceType()== ECDeviceType.WEB){
             name="web浏览器端";
-        }else if(deviceState.getDeviceType()==ECDeviceType.IPHONE){
+        }else if(deviceState.getDeviceType()== ECDeviceType.IPHONE){
             name="苹果手机端";
-        }else if(deviceState.getDeviceType()==ECDeviceType.ANDROID_PHONE){
+        }else if(deviceState.getDeviceType()== ECDeviceType.ANDROID_PHONE){
             name="安卓手机端";
-        }else if(deviceState.getDeviceType()==ECDeviceType.UN_KNOW){
+        }else if(deviceState.getDeviceType()== ECDeviceType.UN_KNOW){
             name="未知设备上";
         }
 

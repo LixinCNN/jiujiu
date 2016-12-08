@@ -28,6 +28,15 @@ import android.widget.TextView;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 
 
+/**
+ * <p>Title: CCPFormInputView.java</p>
+ * <p>Description: </p>
+ * <p>Copyright: Copyright (c) 2014</p>
+ * <p>Company: Beijing Speedtong Information Technology Co.,Ltd</p>
+ * @author Jorstin Chan
+ * @date 2014-8-16
+ * @version 1.0
+ */
 public class CCPFormInputView extends LinearLayout {
 
 	public static final String TAG = "ECDemo.CCPFormInputView";

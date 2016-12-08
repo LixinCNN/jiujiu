@@ -6,7 +6,10 @@ import android.os.Build;
 import android.util.AttributeSet;
 import android.widget.LinearLayout;
 
-
+/**
+ * com.yuntongxun.ecdemo.common.base in ECDemo_Android
+ * Created by Jorstin on 2015/6/16.
+ */
 public class OnLayoutChangedLinearLayout extends LinearLayout {
 
     public OnLayoutChangedListener mListener;
