@@ -5,10 +5,6 @@ import android.text.TextUtils;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * com.yuntongxun.ecdemo.common.utils in ECDemo_Android
- * Created by Jorstin on 2015/3/30.
- */
 public class CheckUtil {
     public static final String[] PHONE_PREFIX = new String[] { "130", "131",
             "132", "133", "134", "135", "136", "137", "138", "139", "150",

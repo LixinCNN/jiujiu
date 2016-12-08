@@ -89,6 +89,10 @@ public class Base64 {
 
     /**
      * 解码 将字符串转换成字节数组
+     *
+     * @param input
+     * @return
+     * @throws Exception
      */
     public static byte[] decode(String input) throws Exception {
         if (input.length() == 0) {

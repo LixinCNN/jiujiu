@@ -1,15 +1,4 @@
-/*
- *  Copyright (c) 2013 The CCP project authors. All Rights Reserved.
- *
- *  Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
- *  that can be found in the LICENSE file in the root of the web site.
- *
- *   http://www.yuntongxun.com
- *
- *  An additional intellectual property rights grant can be found
- *  in the file PATENTS.  All contributing project authors may
- *  be found in the AUTHORS file in the root of the source tree.
- */
+
 package com.jiujiu.ecdemo.common.utils;
 
 import android.content.Context;
@@ -39,9 +28,6 @@ import java.util.Stack;
 
 /**
  * 缓存加载图片
- * @author Jorstin Chan@容联•云通讯
- * @date 2015-1-4
- * @version 4.0
  */
 public class ChattingAysnImageLoader {
 
@@ -272,7 +258,7 @@ public class ChattingAysnImageLoader {
 			String extension = FileUtils.getExtension(url);
 			final String saveName = DemoUtils.md5(url) + extension;
 			LogUtil.d("this image saveName " + saveName);
-			if (new File(FileAccessor.getImagePathName() , saveName).exists())	{
+			if (new File(FileAccessor.getImagePathName() , saveName).exists())	{	
 				LogUtil.d("loading from sdcard " + saveName);
 				return scalingImage(mContext, saveName, queue);
 

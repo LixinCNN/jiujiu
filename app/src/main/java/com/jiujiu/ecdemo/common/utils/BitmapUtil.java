@@ -1,4 +1,3 @@
-
 package com.jiujiu.ecdemo.common.utils;
 
 import android.graphics.Bitmap;
