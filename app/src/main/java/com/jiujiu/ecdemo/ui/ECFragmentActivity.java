@@ -13,10 +13,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.jiujiu.ecdemo.common.AnimatorUtils;
-import com.jiujiu.ecdemo.common.MethodInvoke;
-import com.jiujiu.ecdemo.common.SDKVersionUtils;
-import com.jiujiu.ecdemo.common.SwipeActivityManager;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.utils.SupportSwipeModeUtils;
 import com.jiujiu.ecdemo.common.view.SwipeBackLayout;

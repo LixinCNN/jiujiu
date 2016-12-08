@@ -49,7 +49,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.base.CCPEditText;
 import com.jiujiu.ecdemo.common.utils.DensityUtil;
 import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
 import com.jiujiu.ecdemo.common.utils.ECPreferences;
@@ -60,7 +59,6 @@ import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
 import com.jiujiu.ecdemo.ui.chatting.base.UnicodeToEmoji;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;
-import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.melink.baseframe.utils.DensityUtils;
 import com.melink.bqmmsdk.bean.Emoji;
 import com.melink.bqmmsdk.sdk.BQMM;

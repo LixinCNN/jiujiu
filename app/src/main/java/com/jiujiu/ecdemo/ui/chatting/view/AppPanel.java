@@ -20,11 +20,9 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.LinearLayout;
 
-import com.jiujiu.ecdemo.common.base.CCPFlipper;
 import com.jiujiu.ecdemo.common.utils.DensityUtil;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.chatting.AppPanelControl;
-import com.jiujiu.ecdemo.common.base.CCPDotView;
 
 import java.util.ArrayList;
 import java.util.List;

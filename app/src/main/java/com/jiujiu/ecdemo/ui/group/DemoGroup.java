@@ -17,7 +17,6 @@ import android.database.Cursor;
 import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
-import com.jiujiu.ecdemo.storage.GroupMemberSqlManager;
 import com.yuntongxun.ecsdk.im.ECGroup;
 
 import java.util.ArrayList;

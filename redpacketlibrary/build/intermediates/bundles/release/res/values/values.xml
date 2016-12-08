@@ -38,7 +38,12 @@
     <declare-styleable name="RPRecyclerView"><attr format="string" name="RPlayoutManager"/><attr name="android:orientation"/><attr format="integer" name="RPspanCount"/><attr format="boolean" name="RPreverseLayout"/><attr format="boolean" name="RPstackFromEnd"/></declare-styleable>
     <declare-styleable name="RPRoundCard"><attr format="reference" name="RPCardBgImg"/><attr format="reference|color" name="RPCardBgColor"/><attr format="dimension" name="RPCardRadius"/><attr format="integer" name="RPCardBgType"/></declare-styleable>
     <declare-styleable name="app"><attr format="string" name="RPmytitle"/><attr format="reference" name="RPleftImage"/><attr format="reference" name="RPrightImage"/><attr format="string" name="RPrightText"/><attr format="reference|color" name="RPrightTextColor"/><attr format="dimension" name="RPrightTextSize"/><attr format="string" name="RPsubTitleText"/><attr format="reference|color" name="RPsubTitleTextColor"/><attr format="dimension" name="RPsubTitleTextSize"/><attr format="reference|color" name="RPtitleTextColor"/><attr format="dimension" name="RPtitleTextSize"/><attr format="reference|color" name="RPtitleBackground"/></declare-styleable>
-    <declare-styleable name="gridPasswordView"><attr format="color|reference" name="gpvTextColor"/><attr format="dimension" name="gpvTextSize"/><attr format="color" name="gpvLineColor"/><attr format="color" name="gpvGridColor"/><attr format="dimension" name="gpvLineWidth"/><attr format="integer" name="gpvPasswordLength"/><attr format="string" name="gpvPasswordTransformation"/><attr format="enum" name="gpvPasswordType"><enum name="numberPassword" value="0"/><enum name="textPassword" value="1"/><enum name="textVisiblePassword" value="2"/><enum name="textWebPassword" value="3"/></attr></declare-styleable>
+    <declare-styleable name="gridPasswordView"><attr format="color|reference" name="gpvTextColor"/><attr format="dimension" name="gpvTextSize"/><attr format="color" name="gpvLineColor"/><attr format="color" name="gpvGridColor"/><attr format="dimension" name="gpvLineWidth"/><attr format="integer" name="gpvPasswordLength"/><attr format="string" name="gpvPasswordTransformation"/><attr format="enum" name="gpvPasswordType">
+            <enum name="numberPassword" value="0"/>
+            <enum name="textPassword" value="1"/>
+            <enum name="textVisiblePassword" value="2"/>
+            <enum name="textWebPassword" value="3"/>
+        </attr></declare-styleable>
     <dimen name="dialogHeight">401dp</dimen>
     <dimen name="dialogWidth">288dp</dimen>
     <dimen name="font105px">35sp</dimen>

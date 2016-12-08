@@ -15,13 +15,8 @@ package com.jiujiu.ecdemo.ui.group;
 
 import android.text.TextUtils;
 
-import com.jiujiu.ecdemo.storage.IMessageSqlManager;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;
-import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
-import com.jiujiu.ecdemo.storage.GroupMemberSqlManager;
-import com.jiujiu.ecdemo.storage.GroupNoticeSqlManager;
-import com.jiujiu.ecdemo.storage.GroupSqlManager;
 import com.yuntongxun.ecsdk.im.ECGroup;
 import com.yuntongxun.ecsdk.im.group.ECChangeAdminMsg;
 import com.yuntongxun.ecsdk.im.group.ECChangeMemberRoleMsg;

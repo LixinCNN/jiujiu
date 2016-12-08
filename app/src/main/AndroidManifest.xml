@@ -436,10 +436,6 @@
             </intent-filter>
         </activity>
         <!--图片选择界面-->
-        <activity
-            android:name="com.jiujiu.ecdemo.photopicker.PhotoPickerActivity"
-            android:configChanges="keyboardHidden|orientation"
-            android:screenOrientation="portrait" />
 
 
         <!-- *****************************ECSDK核心服务类 （必须配置）Start******************************************** -->

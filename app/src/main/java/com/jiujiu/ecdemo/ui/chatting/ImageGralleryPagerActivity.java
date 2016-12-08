@@ -18,7 +18,6 @@ import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.common.utils.FileAccessor;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.utils.ToastUtil;
-import com.jiujiu.ecdemo.storage.IMessageSqlManager;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 
 import java.io.File;

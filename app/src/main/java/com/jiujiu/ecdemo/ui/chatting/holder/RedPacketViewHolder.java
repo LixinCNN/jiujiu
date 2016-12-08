@@ -6,8 +6,6 @@ import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.CCPAppManager;
-
 
 public class RedPacketViewHolder extends BaseHolder {
 

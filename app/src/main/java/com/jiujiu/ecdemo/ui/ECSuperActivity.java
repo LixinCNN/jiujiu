@@ -17,8 +17,6 @@ import android.view.Menu;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.jiujiu.ecdemo.common.ActivityTaskUtils;
-import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
 import com.jiujiu.ecdemo.common.utils.CrashHandler;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.view.TopBarView;

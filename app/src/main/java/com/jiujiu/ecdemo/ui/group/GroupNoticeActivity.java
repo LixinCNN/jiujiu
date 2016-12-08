@@ -24,12 +24,9 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
 import com.jiujiu.ecdemo.common.utils.DateUtil;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
-import com.jiujiu.ecdemo.storage.GroupSqlManager;
 import com.jiujiu.ecdemo.ui.CCPListAdapter;
-import com.jiujiu.ecdemo.storage.GroupNoticeSqlManager;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 import com.yuntongxun.ecsdk.ECError;
 import com.yuntongxun.ecsdk.im.ECAckType;

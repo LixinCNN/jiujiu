@@ -15,8 +15,6 @@ import android.content.Context;
 import android.database.Cursor;
 import android.widget.BaseAdapter;
 
-import com.jiujiu.ecdemo.storage.OnMessageChange;
-
 import junit.framework.Assert;
 
 import java.util.HashMap;

@@ -5,8 +5,6 @@ import android.widget.CheckBox;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.CCPAppManager;
-
 
 public class RedPacketAckViewHolder extends BaseHolder {
 
