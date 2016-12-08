@@ -35,8 +35,6 @@ import com.jiujiu.ecdemo.core.ClientUser;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
 import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;
-import com.jiujiu.ecdemo.ui.contact.ContactLogic;
-import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.jiujiu.ecdemo.ui.settings.EditConfigureActivity;
 import com.jiujiu.ecdemo.ui.settings.SettingPersionInfoActivity;
 

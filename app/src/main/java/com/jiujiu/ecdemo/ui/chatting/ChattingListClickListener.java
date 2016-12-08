@@ -20,7 +20,6 @@ import com.alibaba.fastjson.JSONObject;
 import com.jiujiu.ecdemo.common.utils.CheckUtil;
 import com.jiujiu.ecdemo.ui.chatting.model.ViewHolderTag;
 import com.jiujiu.ecdemo.ui.chatting.redpacketutils.CheckRedPacketMessageUtil;
-import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.settings.WebAboutActivity;
 import com.yuntongxun.ecsdk.ECDevice;

@@ -27,9 +27,7 @@ import android.widget.TextView;
 
 import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;
 import com.jiujiu.ecdemo.ui.chatting.model.Conversation;
-import com.jiujiu.ecdemo.ui.contact.ContactLogic;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
-import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.jiujiu.ecdemo.ui.group.GroupNoticeHelper;
 import com.yuntongxun.ecsdk.ECMessage;
 

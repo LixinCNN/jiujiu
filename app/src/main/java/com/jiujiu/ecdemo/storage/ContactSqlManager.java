@@ -20,8 +20,6 @@ import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.core.ClientUser;
 import com.jiujiu.ecdemo.core.ContactsCache;
 import com.jiujiu.ecdemo.pojo.ForwardObjectBean;
-import com.jiujiu.ecdemo.ui.contact.ContactLogic;
-import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.yuntongxun.ecsdk.im.ECGroupMember;
 
 import junit.framework.Assert;

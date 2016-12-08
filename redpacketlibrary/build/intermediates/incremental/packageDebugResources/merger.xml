@@ -24,20 +24,12 @@
         <attr format="dimension" name="RPCardRadius"/>
         <attr format="integer" name="RPCardBgType"/>
     </declare-styleable><declare-styleable name="RPRecyclerView">
-        <!-- Class name of the Layout Manager to be used.
-        <p/>
-        The class must extend android.support.v7.widget.RecyclerView$LayoutManager
-        and have either a default constructor or constructor with the signature
-        (android.content.Context, android.util.AttributeSet, int, int).
-         <p/>
-         If the name starts with a '.', application package is prefixed.
-         Else, if the name contains a '.', the classname is assumed to be a full class name.
-         Else, the recycler view package name (android.support.v7.widget) is prefixed. -->
+        
         <attr format="string" name="RPlayoutManager"/>
 
-        <!-- ============================= -->
-        <!-- Attributes for Layout Manager -->
-        <!-- ============================= -->
+        
+        
+        
         <eat-comment/>
 
         <attr name="android:orientation"/>
@@ -328,4 +320,9 @@
         <item name="android:textSize">12sp</item>
         <item name="android:layout_alignParentLeft">true</item>
         <item name="android:layout_marginTop">3dp</item>
-    </style></file></source><source path="F:\office\jiujiu\redpacketlibrary\build\generated\res\rs\debug"/><source path="F:\office\jiujiu\redpacketlibrary\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\office\jiujiu\redpacketlibrary\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="app"><attr format="string" name="RPmytitle"/><attr format="reference" name="RPleftImage"/><attr format="reference" name="RPrightImage"/><attr format="string" name="RPrightText"/><attr format="reference|color" name="RPrightTextColor"/><attr format="dimension" name="RPrightTextSize"/><attr format="string" name="RPsubTitleText"/><attr format="reference|color" name="RPsubTitleTextColor"/><attr format="dimension" name="RPsubTitleTextSize"/><attr format="reference|color" name="RPtitleTextColor"/><attr format="dimension" name="RPtitleTextSize"/><attr format="reference|color" name="RPtitleBackground"/></declare-styleable><declare-styleable name="RPRoundCard"><attr format="reference" name="RPCardBgImg"/><attr format="reference|color" name="RPCardBgColor"/><attr format="dimension" name="RPCardRadius"/><attr format="integer" name="RPCardBgType"/></declare-styleable><declare-styleable name="gridPasswordView"><attr format="color|reference" name="gpvTextColor"/><attr format="dimension" name="gpvTextSize"/><attr format="color" name="gpvLineColor"/><attr format="color" name="gpvGridColor"/><attr format="dimension" name="gpvLineWidth"/><attr format="integer" name="gpvPasswordLength"/><attr format="string" name="gpvPasswordTransformation"/><attr format="enum" name="gpvPasswordType"><enum name="numberPassword" value="0"/><enum name="textPassword" value="1"/><enum name="textVisiblePassword" value="2"/><enum name="textWebPassword" value="3"/></attr></declare-styleable><declare-styleable name="RPRecyclerView"><attr format="string" name="RPlayoutManager"/><attr name="android:orientation"/><attr format="integer" name="RPspanCount"/><attr format="boolean" name="RPreverseLayout"/><attr format="boolean" name="RPstackFromEnd"/></declare-styleable></configuration></mergedItems></merger>
+    </style></file></source><source path="F:\office\jiujiu\redpacketlibrary\build\generated\res\rs\debug"/><source path="F:\office\jiujiu\redpacketlibrary\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\office\jiujiu\redpacketlibrary\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="app"><attr format="string" name="RPmytitle"/><attr format="reference" name="RPleftImage"/><attr format="reference" name="RPrightImage"/><attr format="string" name="RPrightText"/><attr format="reference|color" name="RPrightTextColor"/><attr format="dimension" name="RPrightTextSize"/><attr format="string" name="RPsubTitleText"/><attr format="reference|color" name="RPsubTitleTextColor"/><attr format="dimension" name="RPsubTitleTextSize"/><attr format="reference|color" name="RPtitleTextColor"/><attr format="dimension" name="RPtitleTextSize"/><attr format="reference|color" name="RPtitleBackground"/></declare-styleable><declare-styleable name="RPRoundCard"><attr format="reference" name="RPCardBgImg"/><attr format="reference|color" name="RPCardBgColor"/><attr format="dimension" name="RPCardRadius"/><attr format="integer" name="RPCardBgType"/></declare-styleable><declare-styleable name="gridPasswordView"><attr format="color|reference" name="gpvTextColor"/><attr format="dimension" name="gpvTextSize"/><attr format="color" name="gpvLineColor"/><attr format="color" name="gpvGridColor"/><attr format="dimension" name="gpvLineWidth"/><attr format="integer" name="gpvPasswordLength"/><attr format="string" name="gpvPasswordTransformation"/><attr format="enum" name="gpvPasswordType">
+            <enum name="numberPassword" value="0"/>
+            <enum name="textPassword" value="1"/>
+            <enum name="textVisiblePassword" value="2"/>
+            <enum name="textWebPassword" value="3"/>
+        </attr></declare-styleable><declare-styleable name="RPRecyclerView"><attr format="string" name="RPlayoutManager"/><attr name="android:orientation"/><attr format="integer" name="RPspanCount"/><attr format="boolean" name="RPreverseLayout"/><attr format="boolean" name="RPstackFromEnd"/></declare-styleable></configuration></mergedItems></merger>

@@ -51,7 +51,6 @@ import android.widget.TextView;
 
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
 import com.jiujiu.ecdemo.ui.chatting.base.UnicodeToEmoji;
-import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.melink.baseframe.utils.DensityUtils;
 import com.melink.bqmmsdk.bean.Emoji;
 import com.melink.bqmmsdk.sdk.BQMM;

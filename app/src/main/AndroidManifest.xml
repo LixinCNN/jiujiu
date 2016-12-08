@@ -119,17 +119,7 @@
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize" />
         <!-- 联系人详情选项卡 -->
-        <activity
-            android:name="com.jiujiu.ecdemo.ui.contact.ContactDetailActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
         <!-- 手机系统联系人 -->
-        <activity
-            android:name="com.jiujiu.ecdemo.ui.contact.MobileContactActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
         <!-- 发送预览图片 -->
         <activity
             android:name="com.jiujiu.ecdemo.ui.chatting.ImagePreviewActivity"
@@ -167,22 +157,7 @@
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustResize" />
         <!-- 联系人选择 -->
-        <activity
-            android:name="com.jiujiu.ecdemo.ui.contact.ContactSelectListActivity"
-            android:configChanges="keyboardHidden|orientation"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
         <!-- 手机联系人选择 -->
-        <activity
-            android:name="com.jiujiu.ecdemo.ui.contact.MobileContactSelectActivity"
-            android:configChanges="keyboardHidden|orientation"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
-        <activity
-            android:name="com.jiujiu.ecdemo.ui.contact.SelectContactUI"
-            android:configChanges="keyboardHidden|orientation"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden" />
         <!-- 设置页面 -->
         <activity
             android:name="com.jiujiu.ecdemo.ui.settings.SettingsActivity"
@@ -196,11 +171,6 @@
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <!--群组选择联系人页面-->
-        <activity
-            android:name="com.jiujiu.ecdemo.ui.contact.GroupCardSelectUI"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden|adjustPan" />
         <!--群组信息页面-->
         <activity
             android:name="com.jiujiu.ecdemo.ui.group.GroupInfoActivity"

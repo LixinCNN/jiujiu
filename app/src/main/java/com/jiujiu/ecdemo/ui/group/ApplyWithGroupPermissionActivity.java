@@ -21,7 +21,6 @@ import android.widget.TextView;
 
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
-import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.jiujiu.ecdemo.ui.settings.EditConfigureActivity;
 import com.yuntongxun.ecsdk.ECError;
 import com.yuntongxun.ecsdk.im.ECGroup;

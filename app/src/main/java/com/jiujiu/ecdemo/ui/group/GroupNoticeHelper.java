@@ -15,7 +15,6 @@ package com.jiujiu.ecdemo.ui.group;
 
 import android.text.TextUtils;
 
-import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.yuntongxun.ecsdk.im.ECGroup;
 import com.yuntongxun.ecsdk.im.group.ECChangeAdminMsg;

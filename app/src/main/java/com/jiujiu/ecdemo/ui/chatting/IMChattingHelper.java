@@ -23,7 +23,6 @@ import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
 import com.jiujiu.ecdemo.ui.chatting.redpacketutils.CheckRedPacketMessageUtil;
-import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.jiujiu.ecdemo.ui.group.DemoGroupNotice;
 import com.jiujiu.ecdemo.ui.group.GroupNoticeHelper;
 import com.yuntongxun.ecsdk.ECChatManager;

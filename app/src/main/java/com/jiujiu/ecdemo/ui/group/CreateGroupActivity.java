@@ -29,7 +29,6 @@ import android.widget.Spinner;
 import com.jiujiu.ecdemo.ui.ActivityTransition;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
-import com.jiujiu.ecdemo.ui.contact.MobileContactSelectActivity;
 import com.yuntongxun.ecsdk.ECError;
 import com.yuntongxun.ecsdk.ECGroupManager;
 import com.yuntongxun.ecsdk.SdkErrorCode;

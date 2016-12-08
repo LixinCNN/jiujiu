@@ -24,7 +24,6 @@ import android.widget.ListView;
 
 import com.jiujiu.ecdemo.ui.chatting.CustomerServiceHelper;
 import com.jiujiu.ecdemo.ui.chatting.model.Conversation;
-import com.jiujiu.ecdemo.ui.contact.ContactLogic;
 import com.jiujiu.ecdemo.ui.group.GroupService;
 import com.jiujiu.ecdemo.common.view.NetWarnBannerView;
 import com.jiujiu.ecdemo.ui.group.GroupNoticeActivity;
