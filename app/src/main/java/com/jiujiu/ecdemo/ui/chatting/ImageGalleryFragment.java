@@ -14,10 +14,8 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.core.ECAsyncTask;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
-import com.jiujiu.ecdemo.common.utils.FileAccessor;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
@@ -26,7 +24,6 @@ import com.nostra13.universalimageloader.core.listener.ImageLoadingProgressListe
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;
 import com.nostra13.universalimageloader.utils.DiskCacheUtils;
 import com.jiujiu.ecdemo.R;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.photoview.PhotoView;
 import com.jiujiu.ecdemo.photoview.PhotoViewAttacher;
 import com.jiujiu.ecdemo.ui.CCPFragment;

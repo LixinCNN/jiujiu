@@ -23,9 +23,6 @@ import android.view.View.OnClickListener;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
-import com.jiujiu.ecdemo.common.utils.FileAccessor;
-import com.jiujiu.ecdemo.common.utils.ResourceHelper;
 import com.jiujiu.ecdemo.ui.chatting.ChattingActivity;
 import com.jiujiu.ecdemo.ui.chatting.holder.BaseHolder;
 import com.jiujiu.ecdemo.ui.chatting.holder.ImageRowViewHolder;

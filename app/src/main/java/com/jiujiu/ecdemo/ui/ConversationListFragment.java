@@ -22,10 +22,6 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
-import com.jiujiu.ecdemo.common.utils.ECPreferences;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.ui.chatting.CustomerServiceHelper;
 import com.jiujiu.ecdemo.ui.chatting.model.Conversation;
 import com.jiujiu.ecdemo.ui.contact.ContactLogic;

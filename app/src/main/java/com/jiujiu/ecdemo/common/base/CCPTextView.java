@@ -19,15 +19,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.utils.EmoticonUtil;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 
-
-/**
- * @author 容联•云通讯
- * @date 2014-12-9
- * @version 4.0
- */
 public class CCPTextView extends TextView {
 
 	private GestureDetector mDetector;

@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_in.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_out.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_in.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_in.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_in.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_in.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_right.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_right.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_in.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_in.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_out.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_in.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_in.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_in.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_out.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_out.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_in.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_right.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_right.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_left.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_left.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_in.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_in.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_right.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_out.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_in.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_right.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_right.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_in.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_in.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_in.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_in.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_left.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_left.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_in.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_in.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_out.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_out.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_out.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_right.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_right.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_out.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_out.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_in.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_in.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_out.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_out.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_in.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_in.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_out.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_out.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_out.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_out.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_out.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_in.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_in.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_in.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_in.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_in.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_in.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_in.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_in.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_in.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_progress_loading.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_progress_loading.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_out.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_out.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_right.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_right.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_out.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_out.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_out.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_out.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_left.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_left.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_left.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_right.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_right.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_out.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_out.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_in.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_in.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_out.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_left_out.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_progress_loading.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_progress_loading.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_left.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_out.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_out.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_left.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_in.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_in.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_progress_loading.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_progress_loading.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_in.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_in.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_out.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_out.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_progress_loading.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_progress_loading.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_left.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_left.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_out.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_out.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_out.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_out.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_scale_in.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_scale_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_right.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_right.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_out.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_right_out.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_right_out.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_progress_loading.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_progress_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_in.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_out_to_right.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_right.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\ytx_slide_in_from_right.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_fade_in.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_fade_in.xml"
+    }
+]

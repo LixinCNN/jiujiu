@@ -25,8 +25,6 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-
 
 /**
  * <p>Title: CCPFormInputView.java</p>

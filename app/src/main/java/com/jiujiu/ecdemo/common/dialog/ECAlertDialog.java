@@ -23,8 +23,6 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

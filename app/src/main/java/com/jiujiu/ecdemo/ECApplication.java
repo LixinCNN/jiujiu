@@ -18,11 +18,6 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 
 import com.baidu.mapapi.SDKInitializer;
-import com.jiujiu.ecdemo.common.utils.CrashHandler;
-import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
-import com.jiujiu.ecdemo.common.utils.ECPreferences;
-import com.jiujiu.ecdemo.common.utils.FileAccessor;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.nostra13.universalimageloader.cache.disc.impl.UnlimitedDiscCache;
 import com.nostra13.universalimageloader.cache.memory.impl.WeakMemoryCache;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;

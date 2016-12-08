@@ -3,9 +3,6 @@ package com.jiujiu.ecdemo.ui.chatting;
 import java.io.File;
 import java.io.IOException;
 
-import com.jiujiu.ecdemo.common.utils.CommomUtil;
-import com.jiujiu.ecdemo.common.utils.FileUtils;
-import com.jiujiu.ecdemo.common.utils.MimeTypesTools;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 
 import android.annotation.SuppressLint;

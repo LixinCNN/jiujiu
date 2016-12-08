@@ -4,10 +4,6 @@ import android.graphics.BitmapFactory;
 import android.text.TextUtils;
 
 import com.jiujiu.ecdemo.common.utils.Base64;
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
-import com.jiujiu.ecdemo.common.utils.FileAccessor;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
 import com.yuntongxun.ecsdk.ECDeskManager;

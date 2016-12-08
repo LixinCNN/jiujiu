@@ -1,7 +1,5 @@
 package com.jiujiu.ecdemo.ui.chatting.view;
 
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-
 import android.content.Context;
 import android.util.AttributeSet;
 import android.util.DisplayMetrics;

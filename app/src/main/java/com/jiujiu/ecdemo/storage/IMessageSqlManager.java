@@ -19,9 +19,6 @@ import android.database.SQLException;
 import android.text.TextUtils;
 
 import com.jiujiu.ecdemo.common.CCPAppManager;
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
-import com.jiujiu.ecdemo.common.utils.FileAccessor;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.chatting.ChattingFragment;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
 import com.jiujiu.ecdemo.ui.chatting.redpacketutils.CheckRedPacketMessageUtil;
