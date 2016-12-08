@@ -20,7 +20,7 @@ import com.jiujiu.ecdemo.ui.group.GroupMemberService;
 import com.yuntongxun.ecsdk.im.ECGroupMember;
 
 import java.util.ArrayList;
-/**
+/*
  *处理@某人操作
  */
 
