@@ -20,7 +20,6 @@ import android.view.ContextMenu;
 import android.view.View;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.chatting.ChattingActivity;
 import com.jiujiu.ecdemo.ui.chatting.holder.BaseHolder;
 import com.jiujiu.ecdemo.ui.chatting.holder.RedPacketAckViewHolder;

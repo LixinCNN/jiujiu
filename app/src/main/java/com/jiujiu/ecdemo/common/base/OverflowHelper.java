@@ -21,7 +21,6 @@ import android.widget.AdapterView;
 import android.widget.LinearLayout;
 import android.widget.PopupWindow;
 
-import com.jiujiu.ecdemo.common.utils.DensityUtil;
 import com.jiujiu.ecdemo.common.view.PopupMenuListView;
 
 /**

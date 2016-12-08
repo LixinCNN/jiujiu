@@ -25,9 +25,6 @@ import android.view.ViewGroup;
 import android.view.animation.Interpolator;
 import android.widget.Scroller;
 
-import com.jiujiu.ecdemo.common.utils.DensityUtil;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-
 
 public class CCPFlipper extends ViewGroup {
 

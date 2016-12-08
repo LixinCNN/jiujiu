@@ -49,13 +49,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.utils.DensityUtil;
-import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
-import com.jiujiu.ecdemo.common.utils.ECPreferences;
-import com.jiujiu.ecdemo.common.utils.EmoticonUtil;
-import com.jiujiu.ecdemo.common.utils.FileAccessor;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
 import com.jiujiu.ecdemo.ui.chatting.base.UnicodeToEmoji;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;
@@ -68,7 +61,6 @@ import com.melink.bqmmsdk.ui.keyboard.BQMMKeyboard;
 import com.melink.bqmmsdk.ui.keyboard.IBQMMUnicodeEmojiProvider;
 import com.melink.bqmmsdk.widget.BQMMEditView;
 import com.melink.bqmmsdk.widget.BQMMSendButton;
-import com.jiujiu.ecdemo.common.utils.ResourceHelper;
 
 import org.json.JSONArray;
 import org.json.JSONException;

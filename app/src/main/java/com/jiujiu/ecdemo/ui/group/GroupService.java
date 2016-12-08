@@ -14,9 +14,6 @@ package com.jiujiu.ecdemo.ui.group;
 
 import android.content.Intent;
 
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.yuntongxun.ecsdk.ECError;

@@ -16,8 +16,6 @@ import android.content.Context;
 import android.os.AsyncTask;
 
 import com.jiujiu.ecdemo.R;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-import com.jiujiu.ecdemo.common.utils.ToastUtil;
 
 
 /**

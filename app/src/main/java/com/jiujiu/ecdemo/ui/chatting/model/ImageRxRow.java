@@ -22,12 +22,9 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
-import com.jiujiu.ecdemo.common.utils.FileAccessor;
 import com.jiujiu.ecdemo.ui.chatting.ChattingActivity;
 import com.jiujiu.ecdemo.ui.chatting.holder.BaseHolder;
 import com.jiujiu.ecdemo.ui.chatting.view.ChattingItemContainer;
-import com.jiujiu.ecdemo.common.utils.ResourceHelper;
 import com.jiujiu.ecdemo.ui.chatting.holder.ImageRowViewHolder;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;

@@ -21,8 +21,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-
 /**
  * 自定义头像显示控件
  */

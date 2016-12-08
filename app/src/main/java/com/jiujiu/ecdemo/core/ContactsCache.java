@@ -5,7 +5,6 @@ import android.os.AsyncTask;
 import android.text.TextUtils;
 
 import com.jiujiu.ecdemo.common.CCPAppManager;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.contact.ContactLogic;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;
 

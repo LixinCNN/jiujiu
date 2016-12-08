@@ -13,9 +13,6 @@
 package com.jiujiu.ecdemo.ui.chatting.model;
 
 
-import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
-
-
 public enum ChattingRowType {
 
     /**

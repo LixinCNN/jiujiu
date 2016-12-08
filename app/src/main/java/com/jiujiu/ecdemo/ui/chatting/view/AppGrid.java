@@ -23,7 +23,6 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.utils.DensityUtil;
 import com.jiujiu.ecdemo.ui.chatting.Capability;
 
 import java.util.List;

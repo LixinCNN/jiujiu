@@ -25,8 +25,6 @@ import android.widget.TextView;
 
 import com.jiujiu.ecdemo.R;
 import com.jiujiu.ecdemo.common.CCPAccessibilityManager;
-import com.jiujiu.ecdemo.common.utils.DensityUtil;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 
 /**
  * 每一个CCPTabView代表一个导航按钮，配合{@link CCPLauncherUITabView}使用

@@ -19,10 +19,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.utils.EmoticonUtil;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-
-
 
 public class CCPTextView extends TextView {
 

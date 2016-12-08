@@ -19,9 +19,6 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;

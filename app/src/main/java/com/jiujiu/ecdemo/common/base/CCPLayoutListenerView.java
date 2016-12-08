@@ -19,8 +19,6 @@ import android.view.accessibility.AccessibilityEvent;
 import android.view.accessibility.AccessibilityNodeInfo;
 import android.widget.FrameLayout;
 
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-
 /**
  * TODO: document your custom view class.
  */

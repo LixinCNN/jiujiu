@@ -1,7 +1,5 @@
 package com.jiujiu.ecdemo.core;
 
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
-
 /**
  * com.yuntongxun.ecdemo.core in ECDemo_Android
  * Created by Jorstin on 2015/3/21.

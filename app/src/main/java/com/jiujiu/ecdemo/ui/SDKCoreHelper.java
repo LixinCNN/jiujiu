@@ -8,15 +8,10 @@ import android.os.Handler;
 import android.os.Message;
 import android.text.TextUtils;
 
-import com.jiujiu.ecdemo.common.utils.ECNotificationManager;
-import com.jiujiu.ecdemo.common.utils.ECPreferences;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.core.ClientUser;
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
 import com.jiujiu.ecdemo.ui.videomeeting.VideoconferenceBaseActivity;
 import com.jiujiu.ecdemo.ECApplication;
-import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
-import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.voip.VoIPCallActivity;
 import com.yuntongxun.ecsdk.ECChatManager;

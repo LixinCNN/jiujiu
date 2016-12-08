@@ -8,10 +8,6 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.jiujiu.ecdemo.common.utils.CommomUtil;
-import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
-import com.jiujiu.ecdemo.common.utils.ECPreferences;
-import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.core.comparator.ServerConfigBean;
 import com.jiujiu.ecdemo.storage.ServerConfigSqlManager;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;

@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.Button;
 
 import com.jiujiu.ecdemo.common.dialog.ECListDialog;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 
 
 public class SpinnerSelectView extends Button implements View.OnClickListener{

@@ -20,9 +20,6 @@ import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputConnection;
 import android.widget.EditText;
 
-import com.jiujiu.ecdemo.common.utils.EmoticonUtil;
-
-
 
 public class CCPEditText extends EditText {
 

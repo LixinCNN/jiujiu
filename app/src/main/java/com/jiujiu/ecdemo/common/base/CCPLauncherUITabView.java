@@ -13,9 +13,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
-import com.jiujiu.ecdemo.common.utils.DensityUtil;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-
 /**
  * 主界面Tab容器
  */

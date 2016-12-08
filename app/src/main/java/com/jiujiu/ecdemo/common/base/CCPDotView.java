@@ -21,9 +21,6 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.jiujiu.ecdemo.common.utils.LogUtil;
-
-
 
 public class CCPDotView extends LinearLayout {
 

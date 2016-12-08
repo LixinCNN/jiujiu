@@ -1,6 +1,5 @@
 package com.jiujiu.ecdemo.core;
 
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.core.comparator.PyComparator;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;
 

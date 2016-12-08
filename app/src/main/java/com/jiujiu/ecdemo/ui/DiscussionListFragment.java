@@ -23,9 +23,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
-import com.jiujiu.ecdemo.common.utils.ECPreferences;
-import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.view.SettingItem;
 import com.jiujiu.ecdemo.core.ClientUser;
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
@@ -33,7 +30,6 @@ import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;
 import com.jiujiu.ecdemo.ui.contact.ContactLogic;
 import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.jiujiu.ecdemo.ui.settings.SettingPersionInfoActivity;
-import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.settings.EditConfigureActivity;
 

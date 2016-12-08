@@ -9,7 +9,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.jiujiu.ecdemo.common.dialog.ECAlertDialog;
-import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.common.view.SettingItem;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 import com.yuntongxun.ecsdk.ECError;
