@@ -28,12 +28,12 @@
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\ytx_slide_out_to_right.xml"
     },
     {
-        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_out.xml",
-        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_out.xml"
-    },
-    {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_top_in.xml",
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\anim\\rp_top_in.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\rp_bottom_out.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\anim\\rp_bottom_out.xml"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",

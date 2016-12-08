@@ -21,7 +21,6 @@ import com.jiujiu.ecdemo.common.utils.CheckUtil;
 import com.jiujiu.ecdemo.ui.chatting.model.ViewHolderTag;
 import com.jiujiu.ecdemo.ui.chatting.redpacketutils.CheckRedPacketMessageUtil;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
-import com.jiujiu.ecdemo.ui.settings.WebAboutActivity;
 import com.yuntongxun.ecsdk.ECDevice;
 import com.yuntongxun.ecsdk.ECMessage;
 import com.yuntongxun.ecsdk.ECMessage.Direction;

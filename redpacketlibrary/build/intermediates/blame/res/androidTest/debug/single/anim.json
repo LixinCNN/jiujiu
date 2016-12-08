@@ -8,20 +8,20 @@
         "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\ytx_slide_in_from_right.xml"
     },
     {
-        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\ytx_slide_out_to_left.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\ytx_slide_out_to_left.xml"
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\ytx_slide_out_to_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\ytx_slide_out_to_left.xml"
     },
     {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\rp_right_out.xml",

@@ -18,7 +18,6 @@ import com.jiujiu.ecdemo.storage.ContactSqlManager;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 import com.jiujiu.ecdemo.ui.LauncherActivity;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
-import com.jiujiu.ecdemo.ui.settings.LoginSettingActivity;
 import com.yuntongxun.ecsdk.ECDevice;
 import com.yuntongxun.ecsdk.ECInitParams;
 import com.yuntongxun.ecsdk.SdkErrorCode;

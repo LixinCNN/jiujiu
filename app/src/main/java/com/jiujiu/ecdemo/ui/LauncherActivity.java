@@ -50,8 +50,6 @@ import com.jiujiu.ecdemo.ui.group.ECDiscussionActivity;
 import com.jiujiu.ecdemo.ui.group.GroupNoticeActivity;
 import com.jiujiu.ecdemo.ui.interphone.InterPhoneListActivity;
 import com.jiujiu.ecdemo.ui.meeting.MeetingListActivity;
-import com.jiujiu.ecdemo.ui.settings.SettingPersionInfoActivity;
-import com.jiujiu.ecdemo.ui.settings.SettingsActivity;
 import com.jiujiu.ecdemo.ui.videomeeting.VideoconferenceConversation;
 import com.yuntongxun.ecsdk.ECChatManager;
 import com.yuntongxun.ecsdk.ECDevice;
