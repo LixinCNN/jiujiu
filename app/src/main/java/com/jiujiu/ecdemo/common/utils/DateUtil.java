@@ -21,9 +21,6 @@ import java.util.TimeZone;
 
 /**
  * 时间转换工具类
- * @author Jorstin Chan@容联•云通讯
- * @date 2014-12-10
- * @version 4.0
  */
 public class DateUtil {
 	
@@ -39,7 +36,7 @@ public class DateUtil {
 	public static final int SHOW_TYPE_CALL_DETAIL = 4;
 
 	/**
-	 * 获取当前当天日期的毫秒数 2012-03-21的毫秒数
+	 * 获取当前当天日期的毫秒数
 	 *
 	 * @return
 	 */

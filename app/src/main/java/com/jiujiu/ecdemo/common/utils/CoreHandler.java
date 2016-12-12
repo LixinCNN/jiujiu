@@ -4,19 +4,12 @@ import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
 
-/**
- * com.yuntongxun.ecdemo.common.utils in ECDemo_Android
- * Created by Jorstin on 2015/3/24.
- */
+
 public class CoreHandler extends Handler {
 
-    /**
-     *  self-propagation messaage what
-     */
+
     private static int HANDLER_WHAT;
-    /**
-     * Uniquely identifies the message
-     */
+
     private final int mWhat;
 
 
@@ -24,12 +17,7 @@ public class CoreHandler extends Handler {
     private final boolean mHandle;
     private final HandlerCallbck mHandlerCallbck;
 
-    /**
-     *
-     * @param looper
-     * @param callbck
-     * @param handle
-     */
+
     public CoreHandler(Looper looper , HandlerCallbck callbck , boolean handle) {
         super(looper);
         mWhat = createWhat();
@@ -37,21 +25,13 @@ public class CoreHandler extends Handler {
         mHandle = handle;
     }
 
-    /**
-     *
-     * @param callbck
-     * @param handle
-     */
     public CoreHandler(HandlerCallbck callbck , boolean handle) {
         mWhat = createWhat();
         mHandlerCallbck = callbck;
         mHandle = handle;
     }
 
-    /**
-     * Unique production news message what
-     * @return
-     */
+
     private static int createWhat() {
         if(HANDLER_WHAT > 8192) {
             HANDLER_WHAT = 0;
@@ -60,26 +40,15 @@ public class CoreHandler extends Handler {
         return HANDLER_WHAT;
     }
 
-    /**
-     * Remove any pending posts of messages with code 'what' that are in the
-     * message queue.
-     */
+
     public void removeMessages(){
         removeMessages(mWhat);
     }
 
-    /**
-     * Check if there are any pending posts of messages with code 'what' in
-     * the message queue.
-     */
     public boolean hasMessages(){
         return hasMessages(mWhat);
     }
 
-    /**
-     * Sends a Message containing only the what value, to be delivered
-     * after the specified amount of time elapses.
-     */
     public void sendEmptyMessageDelayed(long delayMillis) {
         mDelayMillis = delayMillis;
         removeMessages();

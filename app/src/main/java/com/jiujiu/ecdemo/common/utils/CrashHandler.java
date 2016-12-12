@@ -22,10 +22,6 @@ import java.util.Arrays;
 import java.util.Properties;
 import java.util.TreeSet;
 
-/**
- * com.yuntongxun.ecdemo.common.utils in ECDemo_Android
- * Created by Jorstin on 2015/6/17.
- */
 public class CrashHandler  implements Thread.UncaughtExceptionHandler {
 
     private final static String TAG = "ECSDK_Demo.UncaughtException";

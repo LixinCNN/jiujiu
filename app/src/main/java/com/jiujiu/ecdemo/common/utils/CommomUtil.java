@@ -29,8 +29,6 @@ public final class CommomUtil {
 	
 	/**
 	 * 是否有外存卡
-	 * 
-	 * @return
 	 */
 	public static boolean isExistExternalStore() {
 		if (Environment.getExternalStorageState().equals(
@@ -50,9 +48,6 @@ public final class CommomUtil {
 	
 	/**
 	 * 通话时间 格式00:00:00
-	 * 
-	 * @param duration
-	 * @return
 	 */
 	public static String getCallDurationShow(long duration) {
 		if (duration / 60 == 0) {
@@ -112,15 +107,11 @@ public final class CommomUtil {
 
 	public static final SimpleDateFormat sequenceFormat = new SimpleDateFormat("yyyyMMddHHmmss");
 	public static final String HOLDPLACE = nextHexString(49);
-	
-	/** The random seed */
+
 	static final long seed = System.currentTimeMillis();
-	// static final long seed=0;
 
 	public static int K = 1;
-	
-	
-	/** Returns a random hexadecimal String */
+
 	public static String nextHexString(int len) {
 		byte[] buff = new byte[len];
 		for (int i = 0; i < len; i++) {
@@ -129,18 +120,11 @@ public final class CommomUtil {
 		}
 		return new String(buff);
 	}
-	
-	
-	/** Returns a random integer between 0 and n-1 */
+
 	public static int nextInt(int n) {
 		Random rand = new Random(seed);
 		return Math.abs(rand.nextInt()) % n;
 	}
-	
-	
-	
-	
-	// 锟叫讹拷锟街凤拷锟角凤拷锟斤拷锟斤拷锟�
 	public static boolean hasFullSize(String inStr) {
 		if (inStr.getBytes().length != inStr.length()) {
 			return true;
@@ -166,12 +150,7 @@ public final class CommomUtil {
 		}
 		return localFile;
 	}
-	
-	/**
-	 * /sdcard
-	 *
-	 * @return
-	 */
+
 	public static String getExternalStorePath() {
 		if (isExistExternalStore()) {
 			return Environment.getExternalStorageDirectory().getAbsolutePath();
@@ -182,9 +161,6 @@ public final class CommomUtil {
 	
 	/**
 	 * dip转化像素
-	 * @param context
-	 * @param dipValue
-	 * @return
 	 */
 	public static int dip2px(Context context, float dipValue){
 
@@ -231,11 +207,6 @@ public final class CommomUtil {
 		}
 	}
 
-	/**
-	 * delete all file
-	 * @param path
-	 * @return
-	 */
 	public static boolean delAllFile(String path) {
 		boolean flag = false;
 		File file = new File(path);
@@ -265,11 +236,6 @@ public final class CommomUtil {
 		return flag;
 	}
 
-	
-	
-	
-	
-	
 	public static String createCCPFileName() {
 		Calendar c = Calendar.getInstance();
 		c.setTimeInMillis(System.currentTimeMillis());
@@ -282,9 +248,7 @@ public final class CommomUtil {
 		int second = c.get(Calendar.SECOND);
 		return y + "-" + m  + "-" + d  + "-" + hour + "-" + minute  + "-" + second;
 	}
-	
-	
-	
+
 	public static String interceptStringOfIndex(String str , int index) {
 		String intercept = str;
 		
@@ -302,18 +266,13 @@ public final class CommomUtil {
 	
 	/**
 	 * 将文件生成位图
-	 * 
-	 * @param path
-	 * @return
-	 * @throws IOException
-	 */
+	*/
 	public static BitmapDrawable getImageDrawable(String path) throws IOException {
 		// 打开文件
 		File file = new File(path);
 		if (!file.exists()) {
 			return null;
 		}
-
 		ByteArrayOutputStream outStream = new ByteArrayOutputStream();
 		byte[] bt = new byte[1024];
 
@@ -326,7 +285,6 @@ public final class CommomUtil {
 			outStream.write(bt, 0, readLength);
 			readLength = in.read(bt);
 		}
-
 		// 转换成byte 后 再格式化成位图
 		byte[] data = outStream.toByteArray();
 		Bitmap bitmap = BitmapFactory.decodeByteArray(data, 0, data.length);// 生成位图
@@ -362,16 +320,9 @@ public final class CommomUtil {
 
 		return val;
 	}
-	
-	
 
 	public static String CALLS_RECORD_TEMP_PATH = CommomUtil.getExternalStorePath()+  "/" + CommomUtil.DEMO_ROOT_STORE + "/callsRecordTemp";
-	
-	/**
-	 * @param fileName
-	 * @param ext
-	 * @return
-	 */
+
 	public static File createCallRecordFilePath(String fileName , String ext) {
 		File localFile = new File(CALLS_RECORD_TEMP_PATH , fileName + "." + ext);
 		if ((!localFile.getParentFile().exists())
