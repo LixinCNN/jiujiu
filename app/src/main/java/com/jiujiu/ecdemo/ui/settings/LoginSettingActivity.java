@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
-
 import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
 import com.jiujiu.ecdemo.common.utils.ECPreferences;
 import com.jiujiu.ecdemo.common.view.SettingItem;
