@@ -22,5 +22,9 @@
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\abc_activity_chooser_view.xml",
         "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout-v14\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\abc_activity_chooser_view.xml",
+        "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout-v14\\abc_activity_chooser_view.xml"
     }
 ]
