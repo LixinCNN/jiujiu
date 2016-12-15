@@ -1,15 +1,4 @@
-/*
- *  Copyright (c) 2013 The CCP project authors. All Rights Reserved.
- *
- *  Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
- *  that can be found in the LICENSE file in the root of the web site.
- *
- *   http://www.cloopen.com
- *
- *  An additional intellectual property rights grant can be found
- *  in the file PATENTS.  All contributing project authors may
- *  be found in the AUTHORS file in the root of the source tree.
- */package com.jiujiu.ecdemo.common.utils;
+package com.jiujiu.ecdemo.common.utils;
 
 import android.media.AudioManager;
 import android.media.MediaPlayer;
@@ -18,42 +7,13 @@ import android.text.TextUtils;
 
 import java.io.File;
 
-/**
- *
- * <p>Title: MediaPlayTools.java</p>
- * <p>Description:
- *  case R.id.start:
- File file = new File(Environment.getExternalStorageDirectory(),"voiceDemo/fn_2013100916_99e9ba8bf0924f269e4e25ab1df6c726_1142.amr");
- MediaPlayTools.getInstance().playVoice(file.getAbsolutePath(), false);
- break;
- case R.id.puse:
-
- MediaPlayTools.getInstance().pause();
- break;
- case R.id.resume:
-
- MediaPlayTools.getInstance().resume();
- break;
- case R.id.stop:
-
- MediaPlayTools.getInstance().stop();
- break;</p>
- * <p>Copyright: Copyright (c) 2012</p>
- * <p>Company: http://www.cloopen.com</p>
- * @author Jorstin Chan
- * @date 2013-10-16
- * @version 3.5
- */
 public class MediaPlayTools {
 
 	private static final String TAG = "MediaPlayTools";
 
 	private static MediaPlayTools mInstance = null;
 
-	/**
-	 * The definition of the state of play 
-	 * Play error
-	 */
+
 	private static final int STATUS_ERROR 				= -1;
 
 	/**

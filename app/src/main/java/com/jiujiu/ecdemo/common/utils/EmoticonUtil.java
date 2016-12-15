@@ -1,15 +1,3 @@
-/*
- *  Copyright (c) 2013 The CCP project authors. All Rights Reserved.
- *
- *  Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
- *  that can be found in the LICENSE file in the root of the web site.
- *
- *   http://www.yuntongxun.com
- *
- *  An additional intellectual property rights grant can be found
- *  in the file PATENTS.  All contributing project authors may
- *  be found in the AUTHORS file in the root of the source tree.
- */
 package com.jiujiu.ecdemo.common.utils;
 
 import android.content.Context;
@@ -33,11 +21,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 
 
-/**
- * @author 容联•云通讯
- * @date 2014-12-9
- * @version 4.0
- */
 public class EmoticonUtil {
 	
 	private static HashMap<String, SpannableString> hashMap = new HashMap<String, SpannableString>();
@@ -175,14 +158,7 @@ public class EmoticonUtil {
 		
 		emojis.clear();
 	}
-	
-	/**
-	 * The emo (local expression file name) into the corresponding Emoji 
-	 * expression Unicode coding, each UTF-16 code takes two bytes
-	 * 
-	 * @param emo The local expression of file name for example: emoji_e415.png
-	 * @return
-	 */
+
 	public static String convertUnicode(String emo) {// e403 
 													 // 1f615
 		emo = emo.substring(emo.indexOf("_") + 1);
@@ -206,14 +182,7 @@ public class EmoticonUtil {
 		return s;
 	}
 	
-	/**
-	 * The Emoji expressions into Unicode code
-	 * @param context
-	 * @param str
-	 * @param textSize
-	 * @param isReplaceLine
-	 * @return
-	 */
+
 	public static SpannableString emoji2CharSequence(Context context , String str , int textSize , boolean isReplaceLine) {
 		
 		SpannableString object = null;

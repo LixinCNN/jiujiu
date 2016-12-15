@@ -36,13 +36,6 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Map.Entry;
 
-/**
- * 网络工具类
- *
- * @author malinkang
- *
- */
-
 public class NetUtils implements Runnable{
     /**
      * 对网络连接状态进行判断

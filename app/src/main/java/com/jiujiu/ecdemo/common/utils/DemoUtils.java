@@ -50,9 +50,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by Jorstin on 2015/3/18.
- */
+
 public class DemoUtils {
 	public static final String TAG = "ECDemo.DemoUtils";
 	private static final int MAX_DECODE_PICTURE_SIZE = 1920 * 1440;
@@ -62,9 +60,6 @@ public class DemoUtils {
 
 	/**
 	 * 计算语音文件的时间长度
-	 * 
-	 * @param file
-	 * @return
 	 */
 	public static int calculateVoiceTime(String file) {
 		File _file = new File(file);
@@ -274,10 +269,6 @@ public class DemoUtils {
 	}
 
 	public static String getGroupShortId(String id) {
-		/*
-		 * if(TextUtils.isEmpty(id) || !id.startsWith("G")) { return id; }
-		 * return id.substring(id.length() - 6 , id.length());
-		 */
 		return id;
 	}
 
@@ -285,9 +276,6 @@ public class DemoUtils {
 
 	/**
 	 * 去除+86
-	 * 
-	 * @param phoneNumber
-	 * @return
 	 */
 	public static String formatPhone(String phoneNumber) {
 		if (phoneNumber == null) {
@@ -299,11 +287,6 @@ public class DemoUtils {
 		return phoneNumber.trim();
 	}
 
-	/**
-	 *
-	 * @param userData
-	 * @return
-	 */
 	public static String getFileNameFormUserdata(String userData) {
 		if (TextUtils.isEmpty(userData) || "null".equals(userData)) {
 			return "";

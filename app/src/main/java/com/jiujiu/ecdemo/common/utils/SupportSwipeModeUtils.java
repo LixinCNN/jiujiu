@@ -5,10 +5,6 @@ import android.os.Build;
 
 import com.jiujiu.ecdemo.common.CCPAppManager;
 
-/**
- * com.yuntongxun.ecdemo.common.utils in ECDemo_Android
- * Created by Jorstin on 2015/6/23.
- */
 public class SupportSwipeModeUtils {
 
     private static final String TAG = "ECSDK_Demo.SupportSwipeModeUtils";

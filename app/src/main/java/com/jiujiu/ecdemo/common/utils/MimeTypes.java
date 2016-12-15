@@ -1,19 +1,3 @@
-/* 
- * Copyright (C) 2008 OpenIntents.org
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-
 package com.jiujiu.ecdemo.common.utils;
 
 import android.webkit.MimeTypeMap;
@@ -30,10 +14,7 @@ public class MimeTypes {
 		mMimeTypes = new HashMap<String,String>();
 		mIcons = new HashMap<String,Integer>();
 	}
-	
-	/* I think the type and extension names are switched (type contains .png, extension contains x/y),
-	 * but maybe it's on purpouse, so I won't change it.
-	 */
+
 	public void put(String type, String extension, int icon){
 		put(type, extension);
 		mIcons.put(extension, icon);

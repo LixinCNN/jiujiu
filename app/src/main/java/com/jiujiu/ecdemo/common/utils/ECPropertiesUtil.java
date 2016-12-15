@@ -20,9 +20,6 @@ import java.util.Properties;
 
 /**
  * 读取头像合成所需要的坐标体系
- * @author Jorstin Chan@容联•云通讯
- * @date 2015-1-9
- * @version 4.0
  */
 public class ECPropertiesUtil {
 	/**
