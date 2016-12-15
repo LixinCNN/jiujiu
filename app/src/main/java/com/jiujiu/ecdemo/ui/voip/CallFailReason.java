@@ -1,8 +1,7 @@
 package com.jiujiu.ecdemo.ui.voip;
 
 import android.util.SparseIntArray;
-/**
- *呼叫失败的原因
+/**呼叫失败的原因
  */
 public class CallFailReason {
 
