@@ -19,10 +19,6 @@ import java.util.Set;
  */
 public class ECPreferences {
 
-
-    /**
-     * The name of the CCP Demo settings file.
-     */
     public static final String CCP_PREFERENCE = getDefaultSharedPreferencesFileName();
 
     /**

@@ -2,6 +2,7 @@ package com.jiujiu.ecdemo.common.utils;
 
 import java.util.HashMap;
 
+
 public class DialNumberMap {
     public static HashMap<Character, Integer> numberMap = new HashMap<Character, Integer>();
     static {

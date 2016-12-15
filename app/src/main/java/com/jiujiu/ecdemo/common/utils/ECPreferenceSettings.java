@@ -1,12 +1,6 @@
 package com.jiujiu.ecdemo.common.utils;
-
-
 public enum ECPreferenceSettings {
 
-    /**
-     * Whether is the first use of the application
-     *
-     */
     SETTINGS_FIRST_USE("com.yuntongxun.ecdemo_first_use" , Boolean.TRUE),
     /**坚持云通讯登陆账号*/
     SETTINGS_YUNTONGXUN_ACCOUNT("com.yuntongxun.ecdemo_yun_account" , ""),

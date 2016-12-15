@@ -235,11 +235,6 @@ public class DemoUtils {
 			str = str.substring(3, str.length());
 		}
 
-//		if (str.contains("#")) {
-//
-//			return str.replaceAll("#", "@");
-//		}
-
 		// 只允数字
 		String regEx = "[^0-9]";
 		Pattern p = Pattern.compile(regEx);

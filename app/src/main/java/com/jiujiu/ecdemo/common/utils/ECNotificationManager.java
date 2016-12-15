@@ -22,7 +22,6 @@ import java.io.IOException;
 
 /**
  * 状态栏通知
-
  */
 public class ECNotificationManager {
 

@@ -13,12 +13,6 @@ public class DensityUtil {
     private static float mPixels = 0.0F;
     private static float density = -1.0F;
 
-    /**
-     *
-     * @param context
-     * @param pixels
-     * @return
-     */
     public static int getDisplayMetrics(Context context, float pixels) {
         if (mPixels == 0.0F)
             mPixels = context.getResources().getDisplayMetrics().density;
