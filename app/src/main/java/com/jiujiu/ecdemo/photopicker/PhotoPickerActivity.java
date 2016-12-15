@@ -1,15 +1,4 @@
-/*
- *  Copyright (c) 2015 The CCP project authors. All Rights Reserved.
- *
- *  Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
- *  that can be found in the LICENSE file in the root of the web site.
- *
- *   http://www.yuntongxun.com
- *
- *  An additional intellectual property rights grant can be found
- *  in the file PATENTS.  All contributing project authors may
- *  be found in the AUTHORS file in the root of the source tree.
- */package com.jiujiu.ecdemo.photopicker;
+package com.jiujiu.ecdemo.photopicker;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
@@ -29,6 +18,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.jiujiu.ecdemo.R;
 import com.jiujiu.ecdemo.photopicker.model.Photo;
 import com.jiujiu.ecdemo.photopicker.model.PhotoDirectory;
 import com.jiujiu.ecdemo.photopicker.utils.MediaStoreHelper;
@@ -41,9 +31,6 @@ import java.util.List;
 
 /**
  * 图片选择界面
- * @author 容联•云通讯
- * @since 2016-4-6
- * @version 5.0
  */
 public class PhotoPickerActivity extends ECSuperActivity implements PhotoAdapter.PhotoClickCallBack ,
             View.OnClickListener{
@@ -121,14 +108,14 @@ public class PhotoPickerActivity extends ECSuperActivity implements PhotoAdapter
 
     @Override
     protected int getLayoutId() {
-        return com.jiujiu.ecdemo.R.layout.picker_activity_photo_picker;
+        return R.layout.picker_activity_photo_picker;
     }
 
     private void initView() {
-        mGridView = (GridView) findViewById(com.jiujiu.ecdemo.R.id.photo_gridview);
-        mPhotoNumTV = (TextView) findViewById(com.jiujiu.ecdemo.R.id.photo_num);
-        mPhotoNameTV = (TextView) findViewById(com.jiujiu.ecdemo.R.id.floder_name);
-        findViewById(com.jiujiu.ecdemo.R.id.bottom_tab_bar).setOnTouchListener(new View.OnTouchListener() {
+        mGridView = (GridView) findViewById(R.id.photo_gridview);
+        mPhotoNumTV = (TextView) findViewById(R.id.photo_num);
+        mPhotoNameTV = (TextView) findViewById(R.id.floder_name);
+        findViewById(R.id.bottom_tab_bar).setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
                 //消费触摸事件，防止触摸底部tab栏也会选中图片
@@ -146,13 +133,13 @@ public class PhotoPickerActivity extends ECSuperActivity implements PhotoAdapter
         mMaxNum = getIntent().getIntExtra(EXTRA_MAX_MUN, DEFAULT_NUM);
         if(mSelectMode == MODE_MULTI) {
             //如果是多选模式，需要将确定按钮初始化以及绑定事件
-            getTopBarView().setTopBarToStatus(1, com.jiujiu.ecdemo.R.drawable.topbar_back_bt,
-                    com.jiujiu.ecdemo.R.drawable.btn_style_green, null,
-                    getString(com.jiujiu.ecdemo.R.string.dialog_ok_button),
-                    getString(com.jiujiu.ecdemo.R.string.picker_title), null, this);
+            getTopBarView().setTopBarToStatus(1, R.drawable.topbar_back_bt,
+                    R.drawable.btn_style_green, null,
+                    getString(R.string.dialog_ok_button),
+                    getString(R.string.picker_title), null, this);
         } else {
-            getTopBarView().setTopBarToStatus(1, com.jiujiu.ecdemo.R.drawable.topbar_back_bt, -1,
-                    com.jiujiu.ecdemo.R.string.picker_title, this);
+            getTopBarView().setTopBarToStatus(1, R.drawable.topbar_back_bt, -1,
+                    R.string.picker_title, this);
         }
     }
 
@@ -160,7 +147,7 @@ public class PhotoPickerActivity extends ECSuperActivity implements PhotoAdapter
         mPhotoLists.addAll(mSrcFloderMap.get(0).getPhotos());
 
         mPhotoNumTV.setText(PhotoUtils.formatResourceString(getApplicationContext(),
-                com.jiujiu.ecdemo.R.string.picker_photos_num, mPhotoLists.size()));
+                R.string.picker_photos_num, mPhotoLists.size()));
 
         mPhotoAdapter = new PhotoAdapter(this.getApplicationContext(), mPhotoLists);
         mPhotoAdapter.setIsShowCamera(mIsShowCamera);
@@ -219,10 +206,10 @@ public class PhotoPickerActivity extends ECSuperActivity implements PhotoAdapter
         if(list != null && list.size()>0) {
             getTopBarView().setRightBtnEnable(true);
             getTopBarView().setRightButtonText(PhotoUtils.formatResourceString(getApplicationContext(),
-                    com.jiujiu.ecdemo.R.string.picker_commit_num, list.size(), mMaxNum));
+                    R.string.picker_commit_num, list.size(), mMaxNum));
         } else {
             getTopBarView().setRightBtnEnable(false);
-            getTopBarView().setRightButtonText(getString(com.jiujiu.ecdemo.R.string.picker_commit));
+            getTopBarView().setRightButtonText(getString(R.string.picker_commit));
         }
     }
 
@@ -244,10 +231,10 @@ public class PhotoPickerActivity extends ECSuperActivity implements PhotoAdapter
     private void toggleFolderList(final List<PhotoDirectory> folders) {
         //初始化文件夹列表
         if(!mIsFloderViewInit) {
-            ViewStub folderStub = (ViewStub) findViewById(com.jiujiu.ecdemo.R.id.floder_stub);
+            ViewStub folderStub = (ViewStub) findViewById(R.id.floder_stub);
             folderStub.inflate();
-            View dimLayout = findViewById(com.jiujiu.ecdemo.R.id.dim_layout);
-            mFloderListView = (ListView) findViewById(com.jiujiu.ecdemo.R.id.listview_floder);
+            View dimLayout = findViewById(R.id.dim_layout);
+            mFloderListView = (ListView) findViewById(R.id.listview_floder);
             final FolderAdapter adapter = new FolderAdapter(this, folders);
             mFloderListView.setAdapter(adapter);
             mFloderListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -270,7 +257,7 @@ public class PhotoPickerActivity extends ECSuperActivity implements PhotoAdapter
                     //这里重新设置adapter而不是直接notifyDataSetChanged，是让GridView返回顶部
                     mGridView.setAdapter(mPhotoAdapter);
                     mPhotoNumTV.setText(PhotoUtils.formatResourceString(getApplicationContext(),
-                            com.jiujiu.ecdemo.R.string.picker_photos_num, mPhotoLists.size()));
+                            R.string.picker_photos_num, mPhotoLists.size()));
                     mPhotoNameTV.setText(folder.getName());
                     toggle();
                 }
@@ -372,7 +359,7 @@ public class PhotoPickerActivity extends ECSuperActivity implements PhotoAdapter
             startActivityForResult(cameraIntent, REQUEST_CAMERA);
         }else{
             Toast.makeText(getApplicationContext(),
-                    com.jiujiu.ecdemo.R.string.picker_msg_no_camera, Toast.LENGTH_SHORT).show();
+                    R.string.picker_msg_no_camera, Toast.LENGTH_SHORT).show();
         }
 
     }
@@ -397,11 +384,11 @@ public class PhotoPickerActivity extends ECSuperActivity implements PhotoAdapter
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case com.jiujiu.ecdemo.R.id.btn_left:
+            case R.id.btn_left:
                 hideSoftKeyboard();
                 finish();
                 break;
-            case com.jiujiu.ecdemo.R.id.text_right:
+            case R.id.text_right:
                 mSelectList.addAll(mPhotoAdapter.getSelectedPhotos());
                 returnData();
                 break;

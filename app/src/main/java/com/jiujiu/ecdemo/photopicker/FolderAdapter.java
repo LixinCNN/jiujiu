@@ -1,15 +1,6 @@
-/*
- *  Copyright (c) 2015 The CCP project authors. All Rights Reserved.
- *
- *  Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
- *  that can be found in the LICENSE file in the root of the web site.
- *
- *   http://www.yuntongxun.com
- *
- *  An additional intellectual property rights grant can be found
- *  in the file PATENTS.  All contributing project authors may
- *  be found in the AUTHORS file in the root of the source tree.
- */package com.jiujiu.ecdemo.photopicker;
+package com.jiujiu.ecdemo.photopicker;
+
+import java.util.List;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -22,8 +13,6 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 import com.jiujiu.ecdemo.photopicker.model.PhotoDirectory;
 import com.jiujiu.ecdemo.photopicker.utils.PhotoUtils;
-
-import java.util.List;
 
 /**
  * 图片目录适配器

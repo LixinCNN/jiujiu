@@ -1,18 +1,16 @@
 package com.jiujiu.ecdemo.photopicker.utils;
 
+import java.io.File;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.util.Date;
+
 import android.content.Context;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
 import android.os.Environment;
 import android.text.TextUtils;
 
-import java.io.File;
-import java.util.Date;
-
-/**
- * 图片工具类
- * @author 容联•云通讯
- * @since 2016-4-6
- * @version 5.0
- */
 public class PhotoUtils {
 
 	/**

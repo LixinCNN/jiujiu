@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\LiuBo\JAVA1\project\jiujiu\redpacketlibrary\src\main\assets"/><source path="E:\LiuBo\JAVA1\project\jiujiu\redpacketlibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\LiuBo\JAVA1\project\jiujiu\redpacketlibrary\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Administrator\Desktop\jiujiu\redpacketlibrary\src\main\assets"/><source path="C:\Users\Administrator\Desktop\jiujiu\redpacketlibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Administrator\Desktop\jiujiu\redpacketlibrary\src\debug\assets"/></dataSet></merger>

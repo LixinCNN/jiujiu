@@ -3,12 +3,7 @@ package com.jiujiu.ecdemo.photopicker.model;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 图片文件夹
- * @author 容联•云通讯
- * @since 2016-4-6
- * @version 5.0
- */
+
 public class PhotoDirectory {
 
 	private String id;

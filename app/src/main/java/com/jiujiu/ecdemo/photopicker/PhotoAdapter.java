@@ -1,15 +1,7 @@
-/*
- *  Copyright (c) 2015 The CCP project authors. All Rights Reserved.
- *
- *  Use of this source code is governed by a Beijing Speedtong Information Technology Co.,Ltd license
- *  that can be found in the LICENSE file in the root of the web site.
- *
- *   http://www.yuntongxun.com
- *
- *  An additional intellectual property rights grant can be found
- *  in the file PATENTS.  All contributing project authors may
- *  be found in the AUTHORS file in the root of the source tree.
- */package com.jiujiu.ecdemo.photopicker;
+package com.jiujiu.ecdemo.photopicker;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -23,11 +15,9 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.jiujiu.ecdemo.photopicker.model.Photo;
-import com.jiujiu.ecdemo.photopicker.utils.PhotoUtils;
 import com.jiujiu.ecdemo.photopicker.widgets.SquareImageView;
-
-import java.util.ArrayList;
-import java.util.List;
+import com.jiujiu.ecdemo.R;
+import com.jiujiu.ecdemo.photopicker.utils.PhotoUtils;
 
 /**
  * 图片适配器
@@ -139,20 +129,20 @@ public class PhotoAdapter extends BaseAdapter {
         mOnPhotoClick = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String path = ((SquareImageView) v.findViewById(com.jiujiu.ecdemo.R.id.imageview_photo)).key;
+                String path = ((SquareImageView) v.findViewById(R.id.imageview_photo)).key;
                 if(mSelectedPhotos.contains(path)) {
-                    v.findViewById(com.jiujiu.ecdemo.R.id.mask).setVisibility(View.GONE);
-                    v.findViewById(com.jiujiu.ecdemo.R.id.checkmark).setSelected(false);
+                    v.findViewById(R.id.mask).setVisibility(View.GONE);
+                    v.findViewById(R.id.checkmark).setSelected(false);
                     mSelectedPhotos.remove(path);
                 } else {
                     if(mSelectedPhotos.size() >= mMaxNum) {
-                        Toast.makeText(mContext, com.jiujiu.ecdemo.R.string.picker_msg_maxi_capacity,
+                        Toast.makeText(mContext, R.string.picker_msg_maxi_capacity,
                                 Toast.LENGTH_SHORT).show();
                         return;
                     }
                     mSelectedPhotos.add(path);
-                    v.findViewById(com.jiujiu.ecdemo.R.id.mask).setVisibility(View.VISIBLE);
-                    v.findViewById(com.jiujiu.ecdemo.R.id.checkmark).setSelected(true);
+                    v.findViewById(R.id.mask).setVisibility(View.VISIBLE);
+                    v.findViewById(R.id.checkmark).setSelected(true);
                 }
                 if(mCallBack != null) {
                     mCallBack.onPhotoClick();
@@ -165,7 +155,7 @@ public class PhotoAdapter extends BaseAdapter {
     public View getView(int position, View convertView, ViewGroup parent) {
         if(getItemViewType(position) == TYPE_CAMERA) {
             convertView = LayoutInflater.from(mContext).inflate(
-                    com.jiujiu.ecdemo.R.layout.picker_item_camera_layout, null);
+                    R.layout.picker_item_camera_layout, null);
             convertView.setTag(null);
             //设置高度等于宽度
             GridView.LayoutParams lp = new GridView.LayoutParams(mWidth, mWidth);
@@ -175,17 +165,17 @@ public class PhotoAdapter extends BaseAdapter {
             if (convertView == null) {
                 holder = new ViewHolder();
                 convertView = LayoutInflater.from(mContext).inflate(
-                        com.jiujiu.ecdemo.R.layout.picker_item_photo_layout, null);
-                holder.photoImageView = (ImageView) convertView.findViewById(com.jiujiu.ecdemo.R.id.imageview_photo);
-                holder.selectView = (ImageView) convertView.findViewById(com.jiujiu.ecdemo.R.id.checkmark);
-                holder.maskView = convertView.findViewById(com.jiujiu.ecdemo.R.id.mask);
-                holder.wrapLayout = (FrameLayout) convertView.findViewById(com.jiujiu.ecdemo.R.id.wrap_layout);
+                        R.layout.picker_item_photo_layout, null);
+                holder.photoImageView = (ImageView) convertView.findViewById(R.id.imageview_photo);
+                holder.selectView = (ImageView) convertView.findViewById(R.id.checkmark);
+                holder.maskView = convertView.findViewById(R.id.mask);
+                holder.wrapLayout = (FrameLayout) convertView.findViewById(R.id.wrap_layout);
                 convertView.setTag(holder);
             } else {
                 holder = (ViewHolder) convertView.getTag();
             }
 
-            holder.photoImageView.setImageResource(com.jiujiu.ecdemo.R.drawable.picker_ic_photo_loading);
+            holder.photoImageView.setImageResource(R.drawable.picker_ic_photo_loading);
             Photo photo = getItem(position);
             if(mSelectMode == PhotoPickerActivity.MODE_MULTI) {
                 holder.wrapLayout.setOnClickListener(mOnPhotoClick);

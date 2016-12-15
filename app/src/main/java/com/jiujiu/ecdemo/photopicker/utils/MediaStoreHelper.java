@@ -7,6 +7,7 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.LoaderManager;
 import android.support.v4.content.Loader;
 
+import com.jiujiu.ecdemo.R;
 import com.jiujiu.ecdemo.photopicker.model.PhotoDirectory;
 
 import java.util.ArrayList;
@@ -28,7 +29,7 @@ public class MediaStoreHelper {
 	public final static int INDEX_ALL_PHOTOS = 0;
 
 	public static void getPhotoDirs(FragmentActivity activity, Bundle args,
-									PhotosResultCallback resultCallback) {
+			PhotosResultCallback resultCallback) {
 		activity.getSupportLoaderManager().initLoader(0, args,
 				new PhotoDirLoaderCallbacks(activity, resultCallback));
 	}
@@ -57,7 +58,7 @@ public class MediaStoreHelper {
 				return;
 			List<PhotoDirectory> directories = new ArrayList<PhotoDirectory>();
 			PhotoDirectory photoDirectoryAll = new PhotoDirectory();
-			photoDirectoryAll.setName(context.getString(com.jiujiu.ecdemo.R.string.picker_all_image));
+			photoDirectoryAll.setName(context.getString(R.string.picker_all_image));
 			photoDirectoryAll.setId("ALL");
 
 			while (data.moveToNext()) {
