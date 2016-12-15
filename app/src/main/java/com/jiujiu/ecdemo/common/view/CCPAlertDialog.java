@@ -21,7 +21,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CCPAlertDialog {
+public class +CCPAlertDialog {
 
 	private Dialog mDialog;
 	private Context mContext;
