@@ -8,11 +8,6 @@ import android.provider.MediaStore;
 import android.text.TextUtils;
 
 import java.io.File;
-
-/**
- * com.yuntongxun.ecdemo.common.utils in ECDemo_Android
- * Created by Jorstin on 2015/6/6.
- */
 public class ExportImgUtil {
 
     private static final String TAG = "ECSDK_Demo.ExportImgUtil";

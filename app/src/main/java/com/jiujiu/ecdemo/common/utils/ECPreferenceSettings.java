@@ -2,7 +2,7 @@ package com.jiujiu.ecdemo.common.utils;
 public enum ECPreferenceSettings {
 
     SETTINGS_FIRST_USE("com.yuntongxun.ecdemo_first_use" , Boolean.TRUE),
-    /**坚持云通讯登陆账号*/
+    /**检查登陆账号*/
     SETTINGS_YUNTONGXUN_ACCOUNT("com.yuntongxun.ecdemo_yun_account" , ""),
     /**检查是否需要自动登录*/
     SETTINGS_REGIST_AUTO("com.yuntongxun.ecdemo_account" , ""),
@@ -17,20 +17,6 @@ public enum ECPreferenceSettings {
     SETTING_CHATTING_CONTACTID("com.yuntongxun.ecdemo_chatting_contactid" , ""),
     /**图片缓存路径*/
     SETTINGS_CROPIMAGE_OUTPUTPATH("com.yuntongxun.ecdemo_CropImage_OutputPath" , ""),
-
-
-
-//   SETTINGS_APPKEY("com.yuntongxun.ecdemo_appkey" , "ff80808144b90b280144be81b1740001"),
-//   SETTINGS_TOKEN("com.yuntongxun.ecdemo_token" , "17E24E5AFDB6D0C1EF32F3533494502B"),
-
-//   SETTINGS_APPKEY("com.yuntongxun.ecdemo_appkey" , "ff8080814e760cd0014e760e70d00000"),
-//   SETTINGS_TOKEN("com.yuntongxun.ecdemo_token" , "0d1c9a812593f292ae7324af77e610f5"),
-
-
-//   SETTINGS_APPKEY("com.yuntongxun.ecdemo_appkey" , "8a48b5514fd49643014ff3062db24ba4"),
-//   SETTINGS_TOKEN("com.yuntongxun.ecdemo_token" , "7f97907824bf9704ac42033a635eba64"),
-
-
 
    SETTINGS_APPKEY("com.yuntongxun.ecdemo_appkey" , "20150314000000110000000000000010"),
    SETTINGS_TOKEN("com.yuntongxun.ecdemo_token" , "17E24E5AFDB6D0C1EF32F3533494502B"),
