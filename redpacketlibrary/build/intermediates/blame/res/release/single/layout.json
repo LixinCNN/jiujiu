@@ -8,20 +8,20 @@
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_card_list_item.xml",
-        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_card_list_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_popup_transfer.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_popup_transfer.xml"
     },
     {
-        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_activity_red_packet_detail.xml",
-        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_activity_red_packet_detail.xml"
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_card_list_item.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_card_list_item.xml"
     },
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_open_exclusive_packet_dialog.xml",
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\layout\\rp_open_exclusive_packet_dialog.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_activity_red_packet_detail.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_activity_red_packet_detail.xml"
     },
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_send_record_list_header.xml",
@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_pay_add_card_dialog.xml"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_recharge.xml",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_recharge.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_open_packet_dialog.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_open_packet_dialog.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_recharge.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_recharge.xml"
     },
     {
         "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_tab.xml",
@@ -52,12 +52,12 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_set_pay_password.xml"
     },
     {
-        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_tabbar.xml",
-        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
-    },
-    {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_activity_record.xml",
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\layout\\rp_activity_record.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_tabbar.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_my_bankcard.xml",
@@ -72,12 +72,12 @@
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_set_pay_password.xml"
     },
     {
-        "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_choose_verify_popup_layout.xml",
-        "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\layout\\rp_choose_verify_popup_layout.xml"
-    },
-    {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_my_bankcard.xml",
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_my_bankcard.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_choose_verify_popup_layout.xml",
+        "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\layout\\rp_choose_verify_popup_layout.xml"
     },
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_divider.xml",
@@ -156,12 +156,12 @@
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_received_record_list_item.xml"
     },
     {
-        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_complete_card_info.xml",
-        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_complete_card_info.xml"
-    },
-    {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_bind_bankcard.xml",
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_bind_bankcard.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_complete_card_info.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_complete_card_info.xml"
     },
     {
         "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_pay_sms_dialog.xml",
@@ -188,12 +188,12 @@
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_pay_tips_dialog.xml"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_error_page.xml",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_error_page.xml"
-    },
-    {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_error_page.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_error_page.xml"
     },
     {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
@@ -224,12 +224,12 @@
         "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_activity_change.xml"
     },
     {
-        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_recharge.xml",
-        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_recharge.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_recharge.xml",
+        "source": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_recharge.xml"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_choose_record_popup_layout.xml",
@@ -244,12 +244,12 @@
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_pay_has_pwd_dialog.xml"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_divider.xml",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_divider.xml"
-    },
-    {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_pay_change_no_pwd_dialog.xml",
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_pay_change_no_pwd_dialog.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_divider.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_divider.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_simple_decor.xml",
@@ -260,12 +260,12 @@
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_details_list_header.xml"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_group_member_header.xml",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_group_member_header.xml"
-    },
-    {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_single_chat_packet.xml",
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_single_chat_packet.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_group_member_header.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_group_member_header.xml"
     },
     {
         "merged": "E:\\a201602\\clone\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_card_list.xml",
@@ -408,12 +408,12 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_pay_add_card_dialog.xml",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_pay_add_card_dialog.xml"
-    },
-    {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item.xml",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_pay_add_card_dialog.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_pay_add_card_dialog.xml"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_withdraw_money.xml",
@@ -476,12 +476,12 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_popup_layout.xml"
     },
     {
-        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_tab.xml",
-        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tab.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_tab.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tab.xml"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\release\\layout\\rp_activity_record.xml",

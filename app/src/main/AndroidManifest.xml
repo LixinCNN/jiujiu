@@ -344,14 +344,6 @@
             >
         </activity>
         <!--webview下载选择界面-->
-        <activity
-            android:name="com.jiujiu.ecdemo.ui.settings.WebAboutActivity"
-            android:configChanges="orientation|keyboardHidden"
-            android:theme="@style/AppTheme"
-            android:windowSoftInputMode="stateHidden"
-            android:screenOrientation="portrait"
-            >
-        </activity>
         <!--查看消息已读未读界面-->
         <activity
             android:name="com.jiujiu.ecdemo.ui.chatting.ECMessageFeedUI"
@@ -379,12 +371,6 @@
         </activity>
 
         <!--微信分享页面-->
-        <activity
-            android:name="com.jiujiu.ecdemo.ui.settings.WXEntryActivity"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            android:exported="true"
-            android:screenOrientation="portrait" />
         <activity
             android:name="com.mob.tools.MobUIShell"
             android:theme="@android:style/Theme.Translucent.NoTitleBar"

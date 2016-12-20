@@ -12,28 +12,28 @@
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_send_record_list_header.xml"
     },
     {
-        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_record_list_footer.xml",
-        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_record_list_footer.xml"
-    },
-    {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_popup_transfer.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_popup_transfer.xml"
+        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_record_list_footer.xml",
+        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_record_list_footer.xml"
     },
     {
         "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_group_member_item.xml",
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_group_member_item.xml"
     },
     {
-        "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
-        "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_popup_transfer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_popup_transfer.xml"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_recharge.xml",
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_recharge.xml"
+    },
+    {
+        "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_widget_title_bar.xml",
@@ -52,12 +52,12 @@
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\layout\\rp_fragment_bind_bankcard.xml"
     },
     {
-        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
-        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_simple_decor.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_received_record_list_item.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\layout\\rp_received_record_list_item.xml"
+    },
+    {
+        "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_simple_decor.xml"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\rp_card_list_item.xml",
