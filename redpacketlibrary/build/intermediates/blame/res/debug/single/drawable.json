@@ -4,6 +4,10 @@
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_normal_shape.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_sidebar_background.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_sidebar_background.xml"
+    },
+    {
         "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_normal_shape.xml",
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_normal_shape.xml"
     },
@@ -32,20 +36,28 @@
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_ll_white_shape.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\ytx_chat_redpacket_selector.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\ytx_chat_redpacket_selector.xml"
+    },
+    {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector_unsolid.xml",
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_selector_unsolid.xml"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_selector.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_selector.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_shape_white_conner.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_shape_white_conner.xml"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_bg.xml",
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_loading_bg.xml"
     },
     {
-        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_shape_white_conner.xml",
-        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_shape_white_conner.xml"
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -72,12 +84,16 @@
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
     },
     {
-        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape.xml",
-        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_normal_shape.xml"
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_default_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_default_shape.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_normal_shape.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_normal_shape.xml"
+    },
+    {
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_normal_shape.xml"
     },
     {
         "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
@@ -98,6 +114,10 @@
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\ytx_chatto_bg.xml",
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\ytx_chatto_bg.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_shape_white_conner.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_shape_white_conner.xml"
     },
     {
         "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
@@ -128,16 +148,20 @@
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_normal_shape_unsolid.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_selector.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_selector.xml"
+    },
+    {
         "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_bg.xml",
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_loading_bg.xml"
     },
     {
-        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector_unsolid.xml",
-        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_selector_unsolid.xml"
-    },
-    {
         "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_normal_shape.xml",
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector_unsolid.xml",
+        "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_selector_unsolid.xml"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_selector.xml",
@@ -148,16 +172,16 @@
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_normal_shape.xml"
     },
     {
-        "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_default_shape.xml",
-        "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_default_shape.xml"
+        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_anim.xml",
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_loading_anim.xml"
     },
     {
-        "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_default_shape.xml",
+        "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_default_shape.xml"
     },
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
@@ -172,12 +196,12 @@
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\ytx_chatfrom_bg.xml"
     },
     {
-        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
-        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
-    },
-    {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
     },
     {
         "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_pressed_shape.xml",
@@ -240,6 +264,10 @@
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
     },
@@ -256,12 +284,20 @@
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_pressed_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_pressed_shape.xml"
+    },
+    {
         "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_ll_white_shape.xml",
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_ll_white_shape.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_normal_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_normal_shape.xml"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_selector.xml",
@@ -274,6 +310,10 @@
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector_unsolid.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_selector_unsolid.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_pressed_shape.xml",
@@ -312,12 +352,20 @@
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_shape_white_conner.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_default_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_default_shape.xml"
+    },
+    {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
     },
     {
         "merged": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_normal_shape.xml",
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_normal_shape.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_retry_normal_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_retry_normal_shape.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_selector.xml",
@@ -352,28 +400,28 @@
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_normal_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_normal_shape.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_normal_shape.xml"
+        "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_pressed_shape.xml",
+        "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_pressed_shape.xml"
     },
     {
         "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_ic_clear.xml"
     },
     {
-        "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_pressed_shape.xml",
-        "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_pressed_shape.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_normal_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_normal_shape.xml"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_sidebar_background.xml",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_sidebar_background.xml"
     },
     {
-        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\ytx_chat_redpacket_selector.xml",
-        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\ytx_chat_redpacket_selector.xml"
-    },
-    {
         "merged": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\ytx_chat_redpacket_selector.xml",
+        "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\ytx_chat_redpacket_selector.xml"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape_unsolid.xml",
@@ -452,12 +500,12 @@
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_pressed_shape_unsolid.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_pressed_shape_unsolid.xml"
-    },
-    {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_cancel_shape.xml",
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_cancel_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_pressed_shape_unsolid.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_pressed_shape_unsolid.xml"
     },
     {
         "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape_unsolid.xml",
@@ -472,12 +520,12 @@
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_pressed_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
-    },
-    {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_pressed_shape.xml",
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_pressed_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
     },
     {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
@@ -486,6 +534,10 @@
     {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
@@ -516,16 +568,16 @@
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_normal_shape.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_normal_shape.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_selector.xml"
     },
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_selector.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_selector.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_selector.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_normal_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_normal_shape.xml"
     },
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector.xml",
@@ -556,6 +608,10 @@
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_normal_shape.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_cancel_shape.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_cancel_shape.xml"
     },
@@ -572,6 +628,10 @@
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_pressed_shape.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape.xml",
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_normal_shape.xml"
     },
@@ -584,8 +644,20 @@
         "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_pressed_shape.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_normal_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_normal_shape.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_default_shape.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_default_shape.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
     },
     {
         "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_default_shape.xml",
@@ -660,6 +732,10 @@
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_pressed_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_pressed_shape.xml"
+    },
+    {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
     },
@@ -686,6 +762,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_normal_shape.xml"
     },
     {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\ytx_chatfrom_bg.xml",
@@ -722,6 +802,10 @@
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_sidebar_background.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_sidebar_background.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\ytx_chatfrom_bg.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\ytx_chatfrom_bg.xml"
     },
     {
         "merged": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
@@ -796,6 +880,10 @@
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
         "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\ytx_chat_redpacket_selector.xml",
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\ytx_chat_redpacket_selector.xml"
     },
@@ -836,6 +924,10 @@
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_default_shape.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
         "merged": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_default_shape.xml",
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_default_shape.xml"
     },
@@ -852,12 +944,20 @@
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_selector.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_normal_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_normal_shape.xml"
+    },
+    {
         "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_selector.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_pressed_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_pressed_shape.xml"
     },
     {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
@@ -906,6 +1006,10 @@
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_pressed_shape.xml",
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
     },
     {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_pressed_shape.xml",
@@ -992,6 +1096,10 @@
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_open_packet_shape_corner.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_shape_corner.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_shape_corner.xml"
+    },
+    {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_pressed_shape_unsolid.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_pressed_shape_unsolid.xml"
     },
@@ -1006,6 +1114,10 @@
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_shape_corner.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_shape_corner.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_anim.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_loading_anim.xml"
     },
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_progress_loading.xml",
@@ -1048,6 +1160,10 @@
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_loading_bg.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_open_packet_shape_corner.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_open_packet_shape_corner.xml"
+    },
+    {
         "merged": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape.xml",
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_normal_shape.xml"
     },
@@ -1058,6 +1174,10 @@
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector.xml",
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_selector.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_bg.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_loading_bg.xml"
     },
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_shape_corner.xml",
@@ -1146,6 +1266,10 @@
     {
         "merged": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
         "source": "F:\\office\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\ytx_chatto_bg.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\ytx_chatto_bg.xml"
     },
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\ytx_chatfrom_bg.xml",
@@ -1264,6 +1388,10 @@
         "source": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape_unsolid.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_normal_shape_unsolid.xml"
+    },
+    {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
@@ -1274,6 +1402,10 @@
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_normal_shape.xml",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_normal_shape.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_progress_loading.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_progress_loading.xml"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
@@ -1290,6 +1422,10 @@
     {
         "merged": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_progress_loading.xml",
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_progress_loading.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_pressed_shape_unsolid.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_pressed_shape_unsolid.xml"
     },
     {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_white_selector.xml",
@@ -1392,6 +1528,10 @@
         "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
         "merged": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
@@ -1402,6 +1542,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_cancel_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_cancel_shape.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_anim.xml",
@@ -1434,6 +1578,10 @@
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_sidebar_background.xml",
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\src\\main\\res\\drawable\\rp_sidebar_background.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_pressed_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_pressed_shape.xml"
     },
     {
         "merged": "F:\\androidceshi\\gitjiujjiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -1476,6 +1624,10 @@
         "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_progress_loading.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_pressed_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_pressed_shape.xml"
+    },
+    {
         "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
     },
@@ -1490,6 +1642,10 @@
     {
         "merged": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_default_shape.xml",
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_default_shape.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
     },
     {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_selector.xml",
@@ -1514,6 +1670,10 @@
     {
         "merged": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "E:\\a201602\\clone\\jiujiu2\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector.xml",
@@ -1584,6 +1744,14 @@
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_pressed_shape.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_selector.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_pressed_shape.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_grey_pressed_shape.xml"
     },
@@ -1616,6 +1784,10 @@
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
         "merged": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
         "source": "E:\\LiuBo\\JAVA1\\project\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
     },
@@ -1646,6 +1818,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector_unsolid.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_selector_unsolid.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
     },
     {
         "merged": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_normal_shape_unsolid.xml",
@@ -1792,6 +1968,10 @@
         "source": "E:\\gitjiujiu\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_loading_anim.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_normal_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_normal_shape.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
     },
@@ -1872,6 +2052,10 @@
         "source": "F:\\YTX\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_open_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_bg.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_loading_bg.xml"
     },
@@ -1900,6 +2084,10 @@
         "source": "F:\\YTX\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_white_normal_shape.xml"
     },
     {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
         "merged": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_anim.xml",
         "source": "F:\\androidtext\\git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_loading_anim.xml"
     },
@@ -1918,6 +2106,18 @@
     {
         "merged": "F:\\2git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_selector.xml",
         "source": "F:\\2git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_ll_white_shape.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_ll_white_shape.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_selector.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\src\\main\\res\\drawable\\rp_btn_blue_selector.xml"
+    },
+    {
+        "merged": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "F:\\3git\\jiujiu\\redpacketlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_search_dropdown_light.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\YTX\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
