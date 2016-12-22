@@ -26,15 +26,17 @@ import android.widget.TextView;
 import com.jiujiu.ecdemo.R;
 import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
-import com.jiujiu.ecdemo.common.utils.DemoUtils;
 import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
 import com.jiujiu.ecdemo.common.utils.ECPreferences;
 import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.common.view.SettingItem;
 import com.jiujiu.ecdemo.core.ClientUser;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
-import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
 import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;
+import com.jiujiu.ecdemo.ui.contact.ContactLogic;
+import com.jiujiu.ecdemo.ui.contact.ECContacts;
+import com.jiujiu.ecdemo.ui.settings.EditConfigureActivity;
+import com.jiujiu.ecdemo.ui.settings.SettingPersionInfoActivity;
 
 import java.io.InvalidClassException;
 
@@ -70,6 +72,7 @@ public class DiscussionListFragment extends TabFragment implements
 	private SettingItem mSettingUpdater;
 	private SettingItem mSettingAbout;
 	private SettingItem mSettingSuggest;
+
 	//零钱
 	private SettingItem mSettingRatio;
 	private SettingItem settings_money;
@@ -118,6 +121,8 @@ public class DiscussionListFragment extends TabFragment implements
 		mSettingAbout = (SettingItem) view.findViewById(com.jiujiu.ecdemo.R.id.settings_about);
 		mSettingSuggest = (SettingItem) view.findViewById(com.jiujiu.ecdemo.R.id.settings_suggest);
 		mSettingRatio = (SettingItem) view.findViewById(com.jiujiu.ecdemo.R.id.settings_ratio);
+		mSettingUpdater = (SettingItem)view.findViewById(R.id.settings_update);
+		mSettingUpdater.setOnClickListener(this);
 		mSettingAbout.setOnClickListener(this);
 		mSettingRatio.setOnClickListener(this);
 		mSettingSuggest.setOnClickListener(this);
@@ -130,7 +135,7 @@ public class DiscussionListFragment extends TabFragment implements
 		mSettingAppkey.setOnClickListener(new OnConfigClickListener(CONFIG_TYPE_APPKEY));
 		mSettingToken.setOnClickListener(new OnConfigClickListener(CONFIG_TYPE_TOKEN));
 
-		if( IMChattingHelper.getInstance() != null
+		/*if( IMChattingHelper.getInstance() != null
 				&& SDKCoreHelper.mSoftUpdate != null
 				&& DemoUtils.checkUpdater(SDKCoreHelper.mSoftUpdate.version)) {
 			mSettingUpdater.setNewUpdateVisibility(true);
@@ -142,7 +147,7 @@ public class DiscussionListFragment extends TabFragment implements
 		} else {
 			mSettingUpdater.setNewUpdateVisibility(false);
 		}
-		initConfigValue();
+		initConfigValue();*/
 	}
 	/**
 	 * 更新状态设置
@@ -308,12 +313,16 @@ public class DiscussionListFragment extends TabFragment implements
 				startActivity(new Intent(getActivity() , SettingPersionInfoActivity.class));
 				break;
 			case R.id.settings_update:
+				startActivity(new Intent(getActivity(),NewsActivity.class));
 				break;
 			case R.id.settings_about:
+				startActivity(new Intent(getActivity(),ShoppingActivity.class));
 				break;
 			case R.id.settings_ratio:
+				startActivity(new Intent(getActivity(),MusicActivity.class));
 				break;
 			case R.id.settings_suggest:
+				startActivity(new Intent(getActivity(),GameActivity.class));
 				break;
 			default:
 				break;
