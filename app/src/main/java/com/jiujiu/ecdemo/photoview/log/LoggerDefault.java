@@ -8,7 +8,6 @@ import android.util.Log;
  */
 public class LoggerDefault implements Logger {
 
-    @Override
     public int v(String tag, String msg) {
         return Log.v(tag, msg);
     }

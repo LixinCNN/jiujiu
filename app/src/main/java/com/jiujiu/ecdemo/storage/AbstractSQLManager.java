@@ -19,6 +19,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import com.jiujiu.ecdemo.ECApplication;
 import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.yuntongxun.ecsdk.ECMessage;
 
 

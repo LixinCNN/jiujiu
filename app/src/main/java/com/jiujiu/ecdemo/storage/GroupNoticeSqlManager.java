@@ -15,6 +15,7 @@ package com.jiujiu.ecdemo.storage;
 import android.content.ContentValues;
 import android.database.Cursor;
 
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.group.DemoGroupNotice;
 import com.jiujiu.ecdemo.ui.group.GroupNoticeHelper;
 import com.jiujiu.ecdemo.ui.group.NoticeSystemMessage;

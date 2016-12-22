@@ -963,7 +963,16 @@ public class ViewDragHelper {
                     .onViewPositionChanged(mCapturedView, clampedX, clampedY, clampedDx, clampedDy);
         }
     }
-
+    public boolean isViewUnder(View view, int x, int y) {
+        if (view == null) {
+            return false;
+        }
+        return x >= view.getLeft() && x < view.getRight() && y >= view.getTop()
+                && y < view.getBottom();
+    }
+    public boolean isCapturedViewUnder(int x, int y) {
+        return isViewUnder(mCapturedView, x, y);
+    }
     public View findTopChildUnder(int x, int y) {
         final int childCount = mParentView.getChildCount();
         for (int i = childCount - 1; i >= 0; i--) {

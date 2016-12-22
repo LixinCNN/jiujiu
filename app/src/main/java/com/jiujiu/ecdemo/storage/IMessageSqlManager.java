@@ -19,9 +19,14 @@ import android.database.SQLException;
 import android.text.TextUtils;
 
 import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.common.utils.DemoUtils;
+import com.jiujiu.ecdemo.common.utils.FileAccessor;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.chatting.ChattingFragment;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
 import com.jiujiu.ecdemo.ui.chatting.redpacketutils.CheckRedPacketMessageUtil;
+import com.jiujiu.ecdemo.ui.contact.ContactLogic;
+import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.yuntongxun.ecsdk.ECMessage;
 import com.yuntongxun.ecsdk.ECMessage.Direction;
 import com.yuntongxun.ecsdk.ECMessage.Type;

@@ -17,6 +17,7 @@ import android.database.Cursor;
 import android.text.TextUtils;
 
 import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.yuntongxun.ecsdk.im.ECGroupMember;
 
 import java.util.ArrayList;

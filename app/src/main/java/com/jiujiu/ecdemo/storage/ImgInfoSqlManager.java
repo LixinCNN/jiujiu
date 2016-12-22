@@ -19,6 +19,11 @@ import android.graphics.BitmapFactory;
 import android.graphics.BitmapFactory.Options;
 import android.text.TextUtils;
 
+import com.jiujiu.ecdemo.common.utils.DateUtil;
+import com.jiujiu.ecdemo.common.utils.DemoUtils;
+import com.jiujiu.ecdemo.common.utils.FileAccessor;
+import com.jiujiu.ecdemo.common.utils.FileUtils;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.chatting.ViewImageInfo;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
 import com.yuntongxun.ecsdk.ECMessage;

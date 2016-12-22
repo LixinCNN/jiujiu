@@ -7,6 +7,8 @@ import android.os.Build;
 import android.os.IBinder;
 import android.util.Log;
 
+import com.jiujiu.ecdemo.common.utils.LogUtil;
+import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.ui.LauncherActivity;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;

@@ -17,6 +17,7 @@ import android.database.Cursor;
 import android.database.SQLException;
 import android.text.TextUtils;
 
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.yuntongxun.ecsdk.ECMessage;
 
 import java.util.ArrayList;
