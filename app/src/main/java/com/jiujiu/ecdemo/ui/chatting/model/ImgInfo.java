@@ -16,6 +16,8 @@ import android.content.ContentValues;
 import android.database.Cursor;
 import android.text.TextUtils;
 
+import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
+
 
 public class ImgInfo {
 	private static int VALUES_ENPTY = -1;

@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.HorizontalScrollView;
 import android.widget.LinearLayout;
 
+import com.jiujiu.ecdemo.common.utils.LogUtil;
+
 public class PageView extends HorizontalScrollView {  
     private int mBaseScrollX;//滑动基线。也就是点击并滑动之前的x值，以此值计算相对滑动距离。  
     private int mScreenWidth;  

@@ -20,6 +20,7 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import com.jiujiu.ecdemo.common.utils.DensityUtil;
 import com.jiujiu.ecdemo.ui.chatting.ChattingActivity;
 import com.jiujiu.ecdemo.ui.chatting.ChattingListAdapter2;
 import com.jiujiu.ecdemo.ui.chatting.model.ViewHolderTag;

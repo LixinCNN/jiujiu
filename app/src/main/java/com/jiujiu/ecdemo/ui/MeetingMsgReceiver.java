@@ -2,6 +2,8 @@ package com.jiujiu.ecdemo.ui;
 
 import android.os.Bundle;
 
+import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.videomeeting.VideoconferenceBaseActivity;
 import com.yuntongxun.ecsdk.OnMeetingListener;
 import com.yuntongxun.ecsdk.VideoRatio;

@@ -3,6 +3,9 @@ package com.jiujiu.ecdemo.ui.chatting;
 import java.io.File;
 import java.io.IOException;
 
+import com.jiujiu.ecdemo.common.utils.CommomUtil;
+import com.jiujiu.ecdemo.common.utils.FileUtils;
+import com.jiujiu.ecdemo.common.utils.MimeTypesTools;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 
 import android.annotation.SuppressLint;
@@ -476,8 +479,7 @@ public class VideoRecordActivity extends ECSuperActivity implements
 			Intent intent = new Intent();
 			intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 			intent.setAction(Intent.ACTION_VIEW);
-			type = MimeTypesTools
-					.getMimeType(getApplicationContext(), fileName);
+			type = MimeTypesTools.getMimeType(getApplicationContext(), fileName);
 			File file = new File(fileName);
 			intent.setDataAndType(Uri.fromFile(file), type);
 			startActivity(intent);

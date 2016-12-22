@@ -20,10 +20,14 @@ import android.view.ContextMenu;
 import android.view.View;
 import android.widget.TextView;
 
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.chatting.ChattingActivity;
 import com.jiujiu.ecdemo.ui.chatting.holder.BaseHolder;
 import com.jiujiu.ecdemo.ui.chatting.holder.RedPacketAckViewHolder;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
+import com.jiujiu.ecdemo.ui.contact.ContactDetailActivity;
+import com.jiujiu.ecdemo.ui.contact.ContactLogic;
+import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.yuntongxun.ecsdk.ECMessage;
 
 import java.util.HashMap;

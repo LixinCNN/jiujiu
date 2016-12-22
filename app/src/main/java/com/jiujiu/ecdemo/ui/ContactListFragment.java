@@ -13,7 +13,12 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
+import com.jiujiu.ecdemo.ui.contact.ContactDetailActivity;
+import com.jiujiu.ecdemo.ui.contact.ContactLogic;
+import com.jiujiu.ecdemo.ui.contact.ContactSelectListActivity;
+import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.yuntongxun.ecsdk.platformtools.ECHandlerHelper;
 
 import java.util.ArrayList;

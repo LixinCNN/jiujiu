@@ -14,7 +14,14 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.common.dialog.ECListDialog;
+import com.jiujiu.ecdemo.common.utils.DemoUtils;
+import com.jiujiu.ecdemo.common.utils.FileAccessor;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.core.ECAsyncTask;
+import com.jiujiu.ecdemo.storage.IMessageSqlManager;
+import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.chatting.model.ImgInfo;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;

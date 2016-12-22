@@ -14,9 +14,9 @@ import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.yuntongxun.ecdemo.R;
-import com.yuntongxun.ecdemo.common.CCPAppManager;
-import com.yuntongxun.ecdemo.ui.videomeeting.SubVideoSurfaceView;
+import com.jiujiu.ecdemo.R;
+import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.ui.videomeeting.SubVideoSurfaceView;
 import com.yuntongxun.ecsdk.voip.video.ECCaptureView;
 
 import java.util.HashMap;

@@ -12,6 +12,9 @@
  */
 package com.jiujiu.ecdemo.ui.group;
 
+import com.jiujiu.ecdemo.common.utils.LogUtil;
+import com.jiujiu.ecdemo.common.utils.ToastUtil;
+import com.jiujiu.ecdemo.storage.GroupMemberSqlManager;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.yuntongxun.ecsdk.ECError;
 import com.yuntongxun.ecsdk.ECGroupManager;

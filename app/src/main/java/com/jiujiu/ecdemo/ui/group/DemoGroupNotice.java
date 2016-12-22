@@ -3,6 +3,8 @@ package com.jiujiu.ecdemo.ui.group;
 import android.content.ContentValues;
 import android.database.Cursor;
 
+import com.jiujiu.ecdemo.common.utils.DemoUtils;
+
 
 public class DemoGroupNotice{
 

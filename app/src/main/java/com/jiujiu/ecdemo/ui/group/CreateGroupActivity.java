@@ -26,9 +26,17 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
 
+import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.common.dialog.ECListDialog;
+import com.jiujiu.ecdemo.common.dialog.ECProgressDialog;
+import com.jiujiu.ecdemo.common.utils.DemoUtils;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
+import com.jiujiu.ecdemo.common.utils.ToastUtil;
+import com.jiujiu.ecdemo.storage.GroupSqlManager;
 import com.jiujiu.ecdemo.ui.ActivityTransition;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
+import com.jiujiu.ecdemo.ui.contact.MobileContactSelectActivity;
 import com.yuntongxun.ecsdk.ECError;
 import com.yuntongxun.ecsdk.ECGroupManager;
 import com.yuntongxun.ecsdk.SdkErrorCode;

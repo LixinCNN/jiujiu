@@ -17,10 +17,17 @@ import android.text.TextUtils;
 import android.view.View;
 
 import com.alibaba.fastjson.JSONObject;
+import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.common.utils.CheckUtil;
+import com.jiujiu.ecdemo.common.utils.FileAccessor;
+import com.jiujiu.ecdemo.common.utils.MediaPlayTools;
+import com.jiujiu.ecdemo.storage.IMessageSqlManager;
+import com.jiujiu.ecdemo.storage.ImgInfoSqlManager;
 import com.jiujiu.ecdemo.ui.chatting.model.ViewHolderTag;
 import com.jiujiu.ecdemo.ui.chatting.redpacketutils.CheckRedPacketMessageUtil;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
+import com.jiujiu.ecdemo.ui.contact.ECContacts;
+import com.jiujiu.ecdemo.ui.settings.WebAboutActivity;
 import com.yuntongxun.ecsdk.ECDevice;
 import com.yuntongxun.ecsdk.ECMessage;
 import com.yuntongxun.ecsdk.ECMessage.Direction;

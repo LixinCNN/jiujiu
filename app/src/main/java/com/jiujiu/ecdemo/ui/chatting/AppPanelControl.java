@@ -14,6 +14,7 @@ package com.jiujiu.ecdemo.ui.chatting;
 
 import android.content.Context;
 
+import com.jiujiu.ecdemo.common.CCPAppManager;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ECApplication;
 

@@ -27,6 +27,9 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 
 import com.jiujiu.ecdemo.common.utils.ChattingAysnImageLoader;
+import com.jiujiu.ecdemo.common.utils.DemoUtils;
+import com.jiujiu.ecdemo.common.utils.FileAccessor;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;
 
 import java.io.File;

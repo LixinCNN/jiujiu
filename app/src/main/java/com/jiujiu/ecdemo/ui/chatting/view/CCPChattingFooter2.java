@@ -49,8 +49,18 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.common.utils.DensityUtil;
+import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
+import com.jiujiu.ecdemo.common.utils.ECPreferences;
+import com.jiujiu.ecdemo.common.utils.EmoticonUtil;
+import com.jiujiu.ecdemo.common.utils.FileAccessor;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
+import com.jiujiu.ecdemo.common.utils.ResourceHelper;
+import com.jiujiu.ecdemo.common.utils.ToastUtil;
 import com.jiujiu.ecdemo.ui.chatting.IMChattingHelper;
 import com.jiujiu.ecdemo.ui.chatting.base.UnicodeToEmoji;
+import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.melink.baseframe.utils.DensityUtils;
 import com.melink.bqmmsdk.bean.Emoji;
 import com.melink.bqmmsdk.sdk.BQMM;

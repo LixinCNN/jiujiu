@@ -20,6 +20,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 
+import com.jiujiu.ecdemo.common.utils.EmoticonUtil;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.chatting.model.CCPEmoji;
 
 import java.util.ArrayList;

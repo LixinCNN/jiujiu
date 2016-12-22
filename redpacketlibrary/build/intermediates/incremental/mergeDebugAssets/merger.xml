@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\3git\jiujiu\redpacketlibrary\src\main\assets"/><source path="F:\3git\jiujiu\redpacketlibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\3git\jiujiu\redpacketlibrary\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\office\jiujiu\redpacketlibrary\src\main\assets"/><source path="F:\office\jiujiu\redpacketlibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\office\jiujiu\redpacketlibrary\src\debug\assets"/></dataSet></merger>

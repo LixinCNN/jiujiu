@@ -8,6 +8,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.jiujiu.ecdemo.common.utils.DateUtil;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
+import com.jiujiu.ecdemo.common.utils.MediaPlayTools;
+import com.jiujiu.ecdemo.storage.ConversationSqlManager;
+import com.jiujiu.ecdemo.storage.IMessageSqlManager;
 import com.jiujiu.ecdemo.ui.chatting.model.DescriptionRxRow;
 import com.jiujiu.ecdemo.ui.chatting.model.FileTxRow;
 import com.jiujiu.ecdemo.ui.chatting.model.ImageTxRow;

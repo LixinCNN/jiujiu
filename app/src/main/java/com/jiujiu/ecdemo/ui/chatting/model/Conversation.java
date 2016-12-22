@@ -16,6 +16,7 @@ import android.database.Cursor;
 import android.text.TextUtils;
 
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
+import com.jiujiu.ecdemo.ui.contact.ECContacts;
 
 
 public class Conversation {

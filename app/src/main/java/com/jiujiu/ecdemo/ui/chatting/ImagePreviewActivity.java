@@ -17,6 +17,10 @@ import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
 
+import com.jiujiu.ecdemo.common.utils.CoreHandler;
+import com.jiujiu.ecdemo.common.utils.DemoUtils;
+import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
+import com.jiujiu.ecdemo.common.utils.ECPreferences;
 import com.jiujiu.ecdemo.common.view.TopBarView;
 import com.jiujiu.ecdemo.photoview.PhotoView;
 import com.jiujiu.ecdemo.ui.ECSuperActivity;

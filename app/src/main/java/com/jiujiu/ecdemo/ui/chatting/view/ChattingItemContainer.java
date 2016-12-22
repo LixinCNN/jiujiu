@@ -18,6 +18,8 @@ import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.jiujiu.ecdemo.common.utils.LogUtil;
+
 
 public class ChattingItemContainer extends RelativeLayout {
 	

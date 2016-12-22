@@ -21,6 +21,9 @@ import android.graphics.PixelFormat;
 import android.os.Bundle;
 import android.view.KeyEvent;
 
+import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.common.utils.CrashHandler;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.ECFragmentActivity;
 import com.jiujiu.ecdemo.ui.SDKCoreHelper;
 import com.jiujiu.ecdemo.ui.chatting.view.CCPChattingFooter2;

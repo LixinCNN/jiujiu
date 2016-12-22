@@ -25,9 +25,20 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.jiujiu.ecdemo.common.CCPAppManager;
+import com.jiujiu.ecdemo.common.utils.DateUtil;
+import com.jiujiu.ecdemo.common.utils.DemoUtils;
+import com.jiujiu.ecdemo.common.utils.ECPreferenceSettings;
+import com.jiujiu.ecdemo.common.utils.ECPreferences;
+import com.jiujiu.ecdemo.common.utils.ResourceHelper;
+import com.jiujiu.ecdemo.storage.ConversationSqlManager;
+import com.jiujiu.ecdemo.storage.GroupMemberSqlManager;
+import com.jiujiu.ecdemo.storage.GroupNoticeSqlManager;
 import com.jiujiu.ecdemo.ui.chatting.base.EmojiconTextView;
 import com.jiujiu.ecdemo.ui.chatting.model.Conversation;
 import com.jiujiu.ecdemo.storage.ContactSqlManager;
+import com.jiujiu.ecdemo.ui.contact.ContactLogic;
+import com.jiujiu.ecdemo.ui.contact.ECContacts;
 import com.jiujiu.ecdemo.ui.group.GroupNoticeHelper;
 import com.yuntongxun.ecsdk.ECMessage;
 

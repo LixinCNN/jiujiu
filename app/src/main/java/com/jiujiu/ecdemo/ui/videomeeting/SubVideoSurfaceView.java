@@ -13,9 +13,9 @@ import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.yuntongxun.ecdemo.R;
-import com.yuntongxun.ecdemo.common.utils.LogUtil;
-import com.yuntongxun.ecdemo.ui.videomeeting.CCPMulitVideoUI.OnVideoUIItemClickListener;
+import com.jiujiu.ecdemo.R;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
+import com.jiujiu.ecdemo.ui.videomeeting.CCPMulitVideoUI.OnVideoUIItemClickListener;
 
 
 public class SubVideoSurfaceView extends FrameLayout {

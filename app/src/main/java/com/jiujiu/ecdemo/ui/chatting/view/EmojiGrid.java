@@ -24,6 +24,9 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.GridView;
 
+import com.jiujiu.ecdemo.common.utils.DensityUtil;
+import com.jiujiu.ecdemo.common.utils.EmoticonUtil;
+import com.jiujiu.ecdemo.common.utils.LogUtil;
 import com.jiujiu.ecdemo.ui.chatting.model.CCPEmoji;
 
 import java.util.ArrayList;
