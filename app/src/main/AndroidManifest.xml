@@ -95,6 +95,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ui.NewsActivity"/>
+        <activity android:name=".ui.ShoppingActivity"/>
+        <activity android:name=".ui.GameActivity"/>
+        <activity android:name=".ui.MusicActivity"/>
 
         <!-- 登陆界面 -->
         <activity
